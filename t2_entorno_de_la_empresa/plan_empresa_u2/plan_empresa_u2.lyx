@@ -1,0 +1,295 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Unidad 2: Plan de empresa
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera
+\end_layout
+
+\begin_layout Section
+Estudio de mercado
+\end_layout
+
+\begin_layout Standard
+Para realizar el estudio de mercado emplearemos principalmente la búsquedas
+ de contenidos generados en la web y redes sociales.
+\end_layout
+
+\begin_layout Section
+Macroentorno
+\end_layout
+
+\begin_layout Paragraph
+¿Cómo nos afectan las tendencias políticas, sociales y económicas? 
+\end_layout
+
+\begin_layout Standard
+Nos afectan en la medida en la que pueden modificarnos las leyes que nos
+ atañen como empresa, el nivel adquisitivo de nuestros posibles clientes,
+ los costes de negocio que tendremos, el precio al que podemos vender nuestros
+ productos y servicios, las ganancias que obtendremos...
+ En definitiva, nos afectan de forma directa y no son separables del desempeño
+ que pueda tener nuestro negocio.
+\end_layout
+
+\begin_layout Paragraph
+¿Qué normativa puede afectarnos? 
+\end_layout
+
+\begin_layout Standard
+Normativas de reciclado de componentes, ley de proteccion de datos, leyes
+ sobre el comercio electrónico...
+\end_layout
+
+\begin_layout Paragraph
+¿Cuáles son los hábitos de consumo de la población respecto al producto
+ o servicio que pretendemos introducir? 
+\end_layout
+
+\begin_layout Standard
+Actualmente la población prefiere la compra de productos nuevos debido a
+ que les garantiza un buen desempeño durante un mayor tiempo.
+ Nosotros, para contrarestar esto ofreceremos un período de garantía mayor
+ al estipulado por ley para todos los productos que tengamos.
+\end_layout
+
+\begin_layout Paragraph
+¿Cómo influye la tecnología en nuestro sector? 
+\end_layout
+
+\begin_layout Standard
+De forma decisiva, del avance o estancamiento de esta depende en buena medida
+ la vigencia de los productos que comercializamos.
+\end_layout
+
+\begin_layout Paragraph
+¿Qué medidas medioambientales afectan a nuestra actividad? 
+\end_layout
+
+\begin_layout Standard
+A medida que se nos obliga a tener mayor consciencia medioambiental (como
+ escusa, entre otras) los costes por cualquier tipo de actividad que requiera
+ de energía irán en aumento.
+ Mayores costes por el uso de paquetería, coste del suministro de electricidad
+ en aumento, tasas municipales, autonómicas y nacionales relacionadas con
+ el medio ambiente.
+\end_layout
+
+\begin_layout Section
+Microentorno
+\end_layout
+
+\begin_layout Paragraph
+¿A quién puede interesarle nuestro producto o servicio? 
+\end_layout
+
+\begin_layout Standard
+En principio nos enfocaremos a clientes particulares, pequeñas y medianas
+ empresas.
+\end_layout
+
+\begin_layout Paragraph
+¿Existen productos sustitutivos? 
+\end_layout
+
+\begin_layout Standard
+Claro, si en lugar de usar productos reutilizados el cliente decide comprar
+ uno nuevo, hay tenemos el principal sustituvo.
+ En lugar de software libre también podrían utilizar software privativo.
+\end_layout
+
+\begin_layout Paragraph
+¿Cómo los valoran nuestros futuros clientes? 
+\end_layout
+
+\begin_layout Standard
+Valorarán el buen desempeño que obtendrán por un precio menor al de un producto
+ nuevo.
+\end_layout
+
+\begin_layout Paragraph
+¿Es fácil el acceso de otras empresas a este mercado? 
+\end_layout
+
+\begin_layout Standard
+Yo diría que no.
+ La competencia a la hora de ofrecer productos y servicios informáticos
+ es enorme debido a la gran difusión con la que podemos disponer en la red.
+ 
+\end_layout
+
+\begin_layout Paragraph
+¿Quién influye en la decisión de compra? 
+\end_layout
+
+\begin_layout Standard
+Las decisiones de compra serán tomadas por los miembros de la dirección
+ de la empresa.
+\end_layout
+
+\begin_layout Paragraph
+¿Quién nos suministra la materia prima? 
+\end_layout
+
+\begin_layout Standard
+Portables web (especializados o no) que dispongan de componentes para la
+ compra.
+\end_layout
+
+\begin_layout Paragraph
+¿Conocemos bien a nuestros competidores? 
+\end_layout
+
+\begin_layout Standard
+Nuestros competidores son sitios web de venta de equipos reacondicionados
+ y empresas que prestan servicios informáticos.
+\end_layout
+
+\begin_layout Paragraph
+¿Cuánto pagarán por nuestros productos?
+\end_layout
+
+\begin_layout Standard
+Lo que se pida y estén dispuestos a pagar.
+\end_layout
+
+\begin_layout Paragraph
+¿Cómo los haremos llegar a quien los compre? 
+\end_layout
+
+\begin_layout Standard
+Podemos dar dos posibilidades: 
+\end_layout
+
+\begin_layout Itemize
+Recogida en el local donde disponemos de los equipos.
+\end_layout
+
+\begin_layout Itemize
+Entrega por paquetería.
+\end_layout
+
+\begin_layout Paragraph
+¿Qué podemos hacer para que nuestro producto o servicio se conozca? 
+\end_layout
+
+\begin_layout Standard
+Crear una página web donde se muestren nuestros productos y servicios.
+ Promocionarla usando redes sociales.
+\end_layout
+
+\begin_layout Section
+Responsabilidad social
+\end_layout
+
+\begin_layout Paragraph
+¿Qué responsabilidades sociales estamos dispuestos a asumir?
+\end_layout
+
+\begin_layout Standard
+Todos los años vamos a dedicar una parte de los beneficios a donaciones
+ a proyectos de software libre.
+ También donaremos equipos que puede que no sean aptos para la venta por
+ tener un rendimiento muy escaso pero pueden ser útiles para ONGs.
+\end_layout
+
+\begin_layout Paragraph
+¿Qué coste suponen para nuestra empresa?
+\end_layout
+
+\begin_layout Standard
+Tanto como el que estemos dispuestos a asumir, desde unos pocos euros hasta
+ el patrocinio por completo de algún proyecto de software o ser los principales
+ benefactores de u
+\end_layout
+
+\begin_layout Paragraph
+¿Cómo podemos rentabilizar estos aspectos? ¿Puede suponer una diferenciación
+ del producto, ser más atractivo para el cliente?
+\end_layout
+
+\begin_layout Standard
+Usarlo como herramienta de promoción sobre los valores de la empresa.
+\end_layout
+
+\end_body
+\end_document

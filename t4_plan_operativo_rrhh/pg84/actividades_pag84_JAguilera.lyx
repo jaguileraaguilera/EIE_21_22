@@ -1,0 +1,298 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Unidad 4: Actividades página 84
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera
+\end_layout
+
+\begin_layout Section
+Enunciados
+\end_layout
+
+\begin_layout Enumerate
+Indica qué información hay que tomar como referencia para diseñar el plan
+ operativo.
+\end_layout
+
+\begin_layout Enumerate
+¿Qué es la ficha del producto?
+\end_layout
+
+\begin_layout Enumerate
+Clasifica los siguientes recursos en humanos, materiales o tecnológicos:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Licencias informáticas.
+\end_layout
+
+\begin_layout Enumerate
+Local de una tienda.
+\end_layout
+
+\begin_layout Enumerate
+Furgoneta.
+\end_layout
+
+\begin_layout Enumerate
+Fianza pagada por alquiler.
+\end_layout
+
+\begin_layout Enumerate
+Productos cosméticos de una permufería.
+\end_layout
+
+\begin_layout Enumerate
+Móvil entregado a un empleado para que realice su trabajo.
+\end_layout
+
+\begin_layout Enumerate
+Licencia administrativa de un estanco.
+\end_layout
+
+\begin_layout Enumerate
+Salario de una empleada.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Indica la localización más adecuada para cada negocio, según las actividades
+ productivas que se indican seguidamente:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Industria azucarera.
+\end_layout
+
+\begin_layout Enumerate
+Estanco.
+\end_layout
+
+\begin_layout Enumerate
+Franquicia de una tienda de moda.
+\end_layout
+
+\begin_layout Enumerate
+Bar de copas.
+\end_layout
+
+\begin_layout Enumerate
+Central térmica (que funciona con carbón).
+\end_layout
+
+\begin_layout Enumerate
+Fábrica de productos lácteos.
+\end_layout
+
+\begin_layout Enumerate
+Fábrica de elaboración de conservas de bonito.
+\end_layout
+
+\begin_layout Enumerate
+Panadería.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Explica qué se debe tener en cuenta en la gestión de stocks si se sabe que
+ los proveedores tarden tres días en servir a una empresa, la cual consume
+ en su proceso productivo 100 unidades de un artículo al día.
+\end_layout
+
+\begin_layout Section
+Respuestas
+\end_layout
+
+\begin_layout Enumerate
+Tomando como referencia la ficha técnica del producto o la descripción del
+ servicio, se diseñan secuencialmente, paso a paso, las fases, etapas y
+ actividades del proceso de producción o del desmepo de tareas para realizar
+ el servicio.
+ Se indicará el tiempo que se tarda en cada paso, los medios técnicos necesarios
+ y los recursos empleados.
+\end_layout
+
+\begin_layout Enumerate
+La ficha técnica del producto es un documento en el que se registran sus
+ atributos físicos y funcionales, que son imprescindebles en elsdiseño del
+ proceso productivo.
+\end_layout
+
+\begin_layout Enumerate
+En cada caso se tiene:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Tecnológicos.
+\end_layout
+
+\begin_layout Enumerate
+Materiales.
+\end_layout
+
+\begin_layout Enumerate
+Materiales.
+\end_layout
+
+\begin_layout Enumerate
+Materiales.
+\end_layout
+
+\begin_layout Enumerate
+Tecnológicos.
+\end_layout
+
+\begin_layout Enumerate
+Materiales.
+\end_layout
+
+\begin_layout Enumerate
+Humanos.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+En cada caso se tiene:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Lugar próximo a la fuente de aprovisionamiento y que permita la reducción
+ de los costes de producción.
+\end_layout
+
+\begin_layout Enumerate
+Zona comercial céntrica o aislada con tránsito peatonal o rodado elevado.
+\end_layout
+
+\begin_layout Enumerate
+Centro comercial.
+\end_layout
+
+\begin_layout Enumerate
+Zona comercial céntrica.
+\end_layout
+
+\begin_layout Enumerate
+Lugar próximo a la fuente de aprovisionamiento y que permita la reducción
+ de los costes de producción.
+\end_layout
+
+\begin_layout Enumerate
+Lugar próximo a la fuente de aprovisionamiento y que permita la reducción
+ de los costes de producción.
+\end_layout
+
+\begin_layout Enumerate
+Lugar próximo a la fuente de aprovisionamiento y que permita la reducción
+ de los costes de producción.
+\end_layout
+
+\begin_layout Enumerate
+Zona comercial céntrica o aislada con tránsito peatonal o rodado elevado.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+En este caso podemos establecer los siguientes:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Stock de ciclo: 300 unidades.
+\end_layout
+
+\begin_layout Itemize
+Stock de seguridad: 300 unidades.
+\end_layout
+
+\begin_layout Itemize
+Punto de pedido: Cada 3 días.
+\end_layout
+
+\end_deeper
+\end_body
+\end_document

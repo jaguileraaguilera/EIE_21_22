@@ -1,0 +1,159 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Unidad 1: Plan de empresa
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera
+\end_layout
+
+\begin_layout Standard
+Mi empresa se va a dedicar a la venta, reparación y soporte de sistemas
+ informáticos de segunda mano.
+\end_layout
+
+\begin_layout Standard
+La industria informática ha llegado a un estado de desarrollo en el cual
+ las empresas que realizan los componentes, de una generación a otra no
+ consiguen extraer mucho más rendimiento de los componentes.
+ Quiero decir, estamos cercanos a los límites del silicio y, por ejemplo,
+ los microprocesadores de hace unos años todavía presentan un rendimiento
+ muy aceptable para según que casos.
+ O hay una gran revolución en la forma en la que se diseña la electrónica,
+ con nuevos materiales y técnicas, o nos espera un período (más o menos
+ dilatado) de estabilidad tecnológica.
+\end_layout
+
+\begin_layout Standard
+Esta reutilización de sistemas se da por necesidad.
+ Necesidad de aprovechar con lo que ya se cuenta creado.
+ Se presentan años de escasez de materias primas, debido a que la naturaleza
+ se encuentra en el límite de lo que podemos extraer de ella.
+ Esta escasez va a conducir a una elevación del coste para crear chips electróni
+cos y en definitiva, va a resultar en una parada en la innovación del sector
+ tecnológico.
+ Creo que estamos cerca del pico tecnólogico al que podemos llegar debido
+ a este pico (ya descenso) de materiales útiles para el avance de la tecnología.
+\end_layout
+
+\begin_layout Standard
+Ante una realidad cada vez más compleja, necesaria de la informática para
+ poder procesar la cantidad de información que generamos de forma cada vez
+ más intensiva, se hace preciso sacar 
+\begin_inset Quotes eld
+\end_inset
+
+petróleo
+\begin_inset Quotes erd
+\end_inset
+
+ de todos los sistemas útiles con los que se cuenta a disposición en la
+ actualidad.
+\end_layout
+
+\begin_layout Standard
+Yo pienso que este período va a ser lo suficientemente duradero como para
+ que se de la posibilidad de que surja una empresa, que mediante el estudio
+ detallado de las necesidades del cliente pueda ofrecerle una solución informáti
+ca reutilizando piezas que ya están fabricadas, bien sea implantando un
+ sistema informático desde cero, actualizando partes críticas de uno ya
+ existente (a nivel de software o de hardware) o extendiendo la vida útil
+ de un sistema en producción.
+\end_layout
+
+\begin_layout Standard
+En actualidad, dentro de lo conozco (bastante poco) no se de una empresa
+ que se dedique a la gestión completa de la vida útil de un sistema informático
+ con este tipo de enfoque en la sostenibilidad y la reutilización.
+ Hay algunas que se dedican a la venta de sistemas informáticos reacondicionados
+ o segunda mano.
+ Otras distintas, encargadas del soporte técnico.
+ De lo que se trata es de ofrecer al cliente una solución total personalizada
+ a un coste inferior debido al carácter a largo plazo y el uso de material
+ reutilizado.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document

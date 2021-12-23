@@ -1,0 +1,337 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Tema 1: Actividades finales
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera 2º CFGS DAW
+\end_layout
+
+\begin_layout Section*
+Actividades finales (página 25)
+\end_layout
+
+\begin_layout Enumerate
+Un emprendedor es una persona que inicia una acción creativa e innovadora,
+ capaz de asumir riesgo.
+ Un empresario es una persona que crea y dirige una empresa.
+ Resumiendo, un empresario es un tipo de emprendedor, pero puede haber emprended
+ores en otras áreas.
+\end_layout
+
+\begin_layout Enumerate
+Las cualidades del empresario quedarían clasificadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Cualidades personales: Iniciativa, creatividad, innovación, autonomía, visión
+ de futuro, tenacidad, responsabilidad, sentido crítico, autodisciplina,
+ confianza en sí mismo y motivación de logro.
+\end_layout
+
+\begin_layout Enumerate
+Habilidades sociales y de dirección: Habilidad comunicativa, asertividad,
+ habilidad negociadora, liderazgo, espíritu de equipoy actitudes de cooperación.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+El intraemprendedor es una persona que, trabajando por cuenta ajena en una
+ empresa, desarrolla y lleva a cabo proyectos de otras con el mismo espíritu
+ de innovación, creatividad y autonomía que si fueran propios.
+ Transforma así una idea en un proyecto realizable, aunque lo haga para
+ una empresa que no es la propia.
+\end_layout
+
+\begin_layout Enumerate
+Los emprendedores sociales son aquellos que crean una emresa para solucionar
+ un problema social existente, de forma rentable y sostenida al mismo tiempo.desc
+ubren una oportunidad de negocio que contribuye a mejorar la sociedad, es
+ decir, aprovechan la actividad empresarial para transformar una realidad
+ social.
+\end_layout
+
+\begin_layout Enumerate
+Ver la tabla 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Ejercicio-5"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Componentes
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Atributos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ideas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ingredientes
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Locales
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Buscar proveedores cercanos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Transporte
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A domicio
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Crear una aplicación para pedir los productos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Calidad
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+La mejor
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+El buen pan es el que mejor se vende
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Ejercicio 5 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Ejercicio-5"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Curiosidad, intuición, trabajo e incorformismo.
+\end_layout
+
+\begin_layout Enumerate
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Producir una colección y vender los modelos diseñados de esa colección,
+ gusten más o menos al público.
+\end_layout
+
+\begin_layout Enumerate
+Diseñar y distribuir una colección dos veces por semana, permitiendo realizar
+ cambios de diseños y colores muchas veces al año.
+ Analizan los productos más vendidos y los que menos, suministrando más
+ modelos de los que se agotan y parando la producción de los que apenas
+ se venden.
+\end_layout
+
+\begin_layout Enumerate
+Sí porque permite adaptarse con facilidad a los gustos del cliente.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Al viejo amigo le dejo el asiento del conductor, subimos a la anciana en
+ el restante y me quedo con la mujer de mis sueños.
+\end_layout
+
+\end_body
+\end_document

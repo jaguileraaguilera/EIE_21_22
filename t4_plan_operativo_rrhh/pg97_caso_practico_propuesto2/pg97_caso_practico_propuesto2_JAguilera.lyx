@@ -1,0 +1,289 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Unidad 4: Actividades página 97
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera
+\end_layout
+
+\begin_layout Section
+Enunciados
+\end_layout
+
+\begin_layout Enumerate
+Identifica para cada uno de los puestos de trabjao descritos en el caso,
+ el diseño del puesto y el perfil profesional que se requiere.
+\end_layout
+
+\begin_layout Enumerate
+Calcula los costes salariales mensuales y anuales que se cargarán a la empresa
+ para ambos puestos.
+\end_layout
+
+\begin_layout Section
+Respuestas
+\end_layout
+
+\begin_layout Enumerate
+Para cada puesto será necesario:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+En el caso del Diseñador UX será necesario contratar un programar con al
+ menos 5 años de experiencia (Programador Senior) con conocimientos en CMS,
+ framenwords, RRSS, CSS...
+\end_layout
+
+\begin_layout Enumerate
+Para el operador de atención al cliente se requiere un profesional con una
+ experiencia mínima de dos años trabajando en atención al cliente, habilidades
+ comunicativas y un perfil proactivo, sociable y empático.
+ Debe tener disponibildad para trabajar en turno de tarde de 14:00 a 22.00,
+ con un contraro por obra o servicio.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Para cada puesto se tiene:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Diseñador UX
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(SB + plus) + ppee = 
+\begin_inset Formula $2100+500+\frac{2100}{12}*3=3125\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+BCCc = 
+\begin_inset Formula $3125*0.2360=737.5\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+AT/EP = 
+\begin_inset Formula $3125*0.015=46.88\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Desemplo = 
+\begin_inset Formula $3125*0.055=171.88\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+FP = 
+\begin_inset Formula $3125*0.006=18.75\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+FOGASA = 
+\begin_inset Formula $3125*0.002=6.25\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Gastos imprevistos = 
+\begin_inset Formula $3125*0.1=312.5\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Coste total mensual = 
+\begin_inset Formula $3125+737.5+46.88+171.88+18.75+6.25+312.5=4418.76\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Coste total anual = 
+\begin_inset Formula $4418.76*12=53025.12\text{€}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Operador de atención al cliente
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(SB + plus) + ppee = 
+\begin_inset Formula $1240+175+\frac{1240}{12}*3=1725€$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+BCCc = 
+\begin_inset Formula $1725*0.2360=407.1\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+AT/EP = 
+\begin_inset Formula $1725*0.015=25.88\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Desemplo = 
+\begin_inset Formula $1725*0.067=115.58\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+FP = 
+\begin_inset Formula $1725*0.006=10.35\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+FOGASA = 
+\begin_inset Formula $1725*0.002=3.45\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Gastos imprevistos = 
+\begin_inset Formula $1725*0.1=172.5\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Coste total mensual = 
+\begin_inset Formula $1725+407.1+25.88+115.58+10.35+3.45+172.5=2459.86\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Coste total anual = 
+\begin_inset Formula $2459.86*12=29518.32\text{€}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_body
+\end_document
