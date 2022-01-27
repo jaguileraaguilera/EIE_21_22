@@ -85,124 +85,531 @@ Unidad 4.1: Plan de empresa
 Javier Aguilera Aguilera
 \end_layout
 
-\begin_layout Standard
-Debéis realizar el plan operativo del plan de empresa.
- Para ello seguid el planteamiento que se formula en la página 98 del libro.
- Así mismo os aconsejo que repaséis detenidamente las páginas correspondientes
- de la unidad 4 (80 a 82).
-\end_layout
-
-\begin_layout Standard
-1.- En relación al mismo hay que diseñar el proceso productivo y operativo
- para lo cual hay que:
-\end_layout
-
-\begin_layout Standard
-a) Recoger el proceso productivo y operativo detallando la secuencia de
- las tareas y planificar la cantidad de unidades que producir.
-\end_layout
-
-\begin_layout Standard
-b) Decidir los medios o recursos físicos, tecnológicos y humanos necesarios
- para desarrollar la actividad.
-\end_layout
-
-\begin_layout Standard
-2.- A continuación tenéis que estudiar la localización indicando:
-\end_layout
-
-\begin_layout Standard
-a) La dirección del lugar en el que radica la empresa.
-\end_layout
-
-\begin_layout Standard
-b) Descripción física del mismo con datos relativos a superficie, distribución,
- diseño del espacio y mapa de ubicación.
-\end_layout
-
-\begin_layout Standard
-c) Servicios de los que dispone la zona que puedan aportar ventajas y aspectos
- negativos que representen inconvenientes
-\end_layout
-
-\begin_layout Standard
-d) Razones de la elección relacionándola con la actividad de la empresa.
-\end_layout
-
-\begin_layout Standard
-e) Importe de la hipoteca o del alquiler mensual y estimación de costes
- asociados a la localización.
-\end_layout
-
-\begin_layout Standard
-Es muy importante que realicéis el proceso de forma reflexiva y meditada
- ya que es paso previo para luego establecer los trabajadores que se precisan
- (luego lo tendréis en cuenta en el plan de recursos humanos) así como costes
- que también se reflejarán en el plan de inversiones y gastos que veremos
- en la próxima unidad.
-\end_layout
-
 \begin_layout Section
 Introducción
 \end_layout
 
 \begin_layout Standard
-Ya estudiada la cuarta unidad, y a la espera de las quinta (análisis de
- costes) y sexta (forma jurídica y trámites de constitución.
- Impuestos y documentación administrativa), creo que se hace necesario volver
- hacia atrás y reflexionar un poco sobre la idea original.
- A medida que el temario progresa, y especialmente de forma notoria en esta
- unidad que ya empezamos a hacer 
-\begin_inset Quotes eld
-\end_inset
-
-números
-\begin_inset Quotes erd
-\end_inset
-
- se empieza a dislumbrar la serie de trabas que se le ponen al emprendedor.
- Me refiero a los costes vía impuestos que el emprendedor tiene que soportar,
- incluso desde las primeras etapas.
- 
-\end_layout
-
-\begin_layout Standard
-En una línea resumía así: 
-\begin_inset Quotes eld
-\end_inset
-
-Mi empresa se va a dedicar a la venta, reparación y soporte de sistemas
- informáticos de segunda mano.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Llegados a este punto, y antes de empezar a desglosar el proceso productivo
- y operativo, así como el plan de recursos humanos, he visto conveniente
- olvidarme de la reparación y el soporte, porque las nóminas de los técnicos
- van a comerse los ingresos que podamos tener.
- Parece que habría que abarcar un poco menos y focalizar 
-\end_layout
-
-\begin_layout Standard
-Dedicándonos solo a la venta los únicos empleados necesarios van a ser mozos
- de almacén, 
-\end_layout
-
-\begin_layout Standard
-La mejor empresa en la que uno puede embarcarse en este país es sacarse
- una oposiciones, f
+Sintiéndolo mucho y después de llevarme horas buscando proveedores de piezas
+ de ordenadores de segunda mano que vendan al por mayor en la cantidad necesaria
+ para tener siempre disponible stock para poder trabajar, voy a cambiar
+ cambiar de idea y voy a montar ordenadores con componentes nuevos.
+ De cara a la parte del plan de empresa de esta unidad 4 no supone mucha
+ diferencia, ya que el plan operativo y de recursos humanos viene a ser
+ el mismo, sin diferencias reseñables, pero en la unidad 5, tener proveedores
+ fiables y con precios conocidos me va a permitir poder realizar las estimacione
+s oportunas de cara a ver si la empresa es viable economicamente o no.
+ En el plan de empresa conjunto hasta la unidad 4 detallaré los cambios
+ oportunos en las unidades 1, 2 y 3.
 \end_layout
 
 \begin_layout Section
 Proceso productivo y operativo
 \end_layout
 
+\begin_layout Subsection
+Proceso productivo y operativo
+\end_layout
+
+\begin_layout Standard
+El proceso de montado de un ordenador consta de las siguientes fases:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Paso
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Proceso
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tiempo
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Seleccionar piezas a ensamblar del almacén
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Desembalaje componentes, prepararación espacio de trabajo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ensamblaje del ordenador
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15-20 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Control de calidad
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Instalación sistema operativo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Embalaje del ordenador en paquete
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Clasificación del paquete en almacén y registro en el stock
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fases a realizar
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se estima que el tiempo muerto entre ordenador y ordenador es de unos 10
+ minutos.
+ El total de tiempo invertido en todo el proceso es, en el peor de los casos,
+ 1.5h aproximadamente.
+\end_layout
+
+\begin_layout Standard
+En el caso de que fuera un técnico contratado por la empresa, aplicando
+ el convenio colectivo de consultoría y estudios de mercado y de la opinión
+ pública (informática), con un computo anual de 1800h trabajadas, se podrían
+ montar unos 1200 ordenadores (con un margen de 20€ por ordenador salen
+ 24000€ año/trabajador, casi casi que ni se costea, pero bueno, no adelantemos
+ resultados).
+ 
+\end_layout
+
+\begin_layout Standard
+Las fases a realizar se han detallado en el caso de que se trabaje de forma
+ 
+\begin_inset Quotes eld
+\end_inset
+
+artesanal
+\begin_inset Quotes erd
+\end_inset
+
+, con esto quiero decir que el operario solo está trabajando en un único
+ ordenador y suponiendo que se montan ordenadores distintos.
+ De cara a optimizar los tiempos, se prevee que se trabaje en cadena y en
+ un día solo se monte una configuración concreta de ordenador y, mediante
+ una disposición en hilera, se trabaje con varios equipos al mismo tiempo
+ tiempo.
+\end_layout
+
+\begin_layout Standard
+No obstante, esta estimación es adecuada ya que al principio solo trabajaré
+ yo y los ordenadores los construiré a casi a demanda, montando en un día
+ distintos modelos y teniendo un stock más bien chico.
+\end_layout
+
+\begin_layout Standard
+Las herramientas y materias primas que se utilizarán son:
+\end_layout
+
+\begin_layout Itemize
+Componentes de PC, cuyo número depende de la configuración elegida, aunque
+ casi de obligada aparición son: Fuente alimentación, disco duro, memoria
+ RAM, CPU, disipador CPU, torre, placa base y una tarjeta gráfica si la
+ CPU no la tuviese integrada.
+\end_layout
+
+\begin_layout Itemize
+Mesa/puesto de trabajo
+\end_layout
+
+\begin_layout Itemize
+Monitor con cable de alimentación y señal de vídeo.
+\end_layout
+
+\begin_layout Itemize
+Ratón y teclados usb inalámbricos con receptor compartido.
+\end_layout
+
+\begin_layout Itemize
+Conexión red wifi.
+\end_layout
+
+\begin_layout Itemize
+Muñeca antiestática, bridas, pasta térmica, alcohol isopropílico, algodón,
+ alicates de electricista, juego de destornilladores de precisión, tornillería
+ necesaria, cable de alimentación, pendrive con la iso del sistema operativo
+ cargada.
+\end_layout
+
+\begin_layout Itemize
+Papel de burbuja, cinta de embalar, celo, caja de carton, porexpan de relleno.
+\end_layout
+
+\begin_layout Itemize
+Un ordenador operativo con el que gestionar el stock.
+\end_layout
+
 \begin_layout Section
 Localización
+\end_layout
+
+\begin_layout Subsection
+Dirección del lugar en el que radica la empresa
+\end_layout
+
+\begin_layout Standard
+Polígono Juncaríl, calle Baza nº 4, Albolote.
+\end_layout
+
+\begin_layout Subsection
+Descripción física del mismo con datos relativos a superficie, distribución,
+ diseño del espacio y mapa de ubicación
+\end_layout
+
+\begin_layout Standard
+Es una nave comercial que cuenta con una superficie de 150 m^2 con un altillo
+ de 25 m^2 con cabestrante, para poder subir cosas.
+ Cuenta con un baño con lavabo, plato de ducha, termo y una pequeña oficina.
+ La nave en sí son 125 m^2 y los otros 25 restantes hasta 150 son los ocupados
+ por la oficina y el baño.
+\end_layout
+
+\begin_layout Standard
+El croquis de la nave sería el siguiente:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename croquis.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Croquis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La ubicación en Google Maps es la siguiente:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.google.es/maps/place/C.+Baza,+4,+18220+Albolote,+Granada/@37.2314118,-3.6
+477883,18z/data=!4m5!3m4!1s0xd71fdf1ee14f25f:0x8e9dcfc9ec2cc40c!8m2!3d37.2315108!
+4d-3.6477426
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Servicios de los que dispone la zona que puedan aportar ventajas y aspectos
+ negativos que representen inconvenientes.
+\end_layout
+
+\begin_layout Standard
+La zona es un polígono industrial que dispone de gran cantidad de empresas.
+ Esto supone una ventaja de cara a obtener material de trabajo, como elementos
+ de almacenaje o cableado o incluso a la hora de realizar el envío de los
+ ordenadores ya que empresas de transporte como Nacex cuentan con sedes
+ allí.
+ También obtenemos más metros usables por menos precio.
+\end_layout
+
+\begin_layout Standard
+Como principal inconveniente está el desplazamiento desde mi domicilio o
+ el de mis futuros trabajadores a la empresa.
+\end_layout
+
+\begin_layout Subsection
+Razones de la elección relacionándola con la actividad de la empresa.
+\end_layout
+
+\begin_layout Standard
+La nave permite almacenar los componentes y los ordenadores montados y poder
+ ensamblarlos allí ya que se cuenta con suministro eléctrico y la posibilidad
+ de poder contratar internet.
+\end_layout
+
+\begin_layout Subsection
+Importe de la hipoteca o del alquiler mensual y estimación de costes asociados
+ a la localización.
+\end_layout
+
+\begin_layout Standard
+El coste del alquiler es de 450€ mensuales.
+ Estimo que en recibos de electricidad, agua, recogida de residuos e internet
+ serán de aproximadamente 200€ mensuales.
+\end_layout
+
+\begin_layout Standard
+Anuncio de la nave: 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.milanuncios.com/alquiler-de-naves-industriales-en-torrenueva-granada/p
+oligono-juncaril-baza-4-438454919.htm
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
