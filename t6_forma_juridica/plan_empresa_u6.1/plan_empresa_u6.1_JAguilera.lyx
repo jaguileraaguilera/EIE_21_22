@@ -1,0 +1,381 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Unidad 6.1: Forma jurídica
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera 2º CFGS DAW
+\end_layout
+
+\begin_layout Section
+Definición de la forma jurídica
+\end_layout
+
+\begin_layout Subsection
+Denominación
+\end_layout
+
+\begin_layout Standard
+Emprendedor de Responsabilidad Limitada.
+\end_layout
+
+\begin_layout Subsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+Persona física que, con limitación de responsabilidad bajo determinadas
+ condiciones, realiza de forma habitual, personal, directa, por cuenta propia
+ y fuera del ámbito de dirección y organización de otra persona, una actividad
+ económica o profesional a título lucrativo, con o sin trabajadores por
+ cuenta ajena a su cargo.
+\end_layout
+
+\begin_layout Subsection
+Características
+\end_layout
+
+\begin_layout Itemize
+El emprendedor responde personalmente de todas las obligaciones que contraiga
+ la empresa, excluyéndose de las mismas la vivienda habitual (exceptuando
+ las deudas de derecho público).
+\end_layout
+
+\begin_layout Itemize
+Control total de la empresa por parte del propietario, que dirige su gestión.
+\end_layout
+
+\begin_layout Itemize
+La personalidad jurídica de la empresa es la misma que la de su titular
+ (empresario).
+\end_layout
+
+\begin_layout Itemize
+La aportación de capital a la empresa, tanto en su calidad como en su cantidad,
+ no tiene más límite que la voluntad del empresario.
+\end_layout
+
+\begin_layout Itemize
+El emprendedor inscrito deberá hacer constar en toda su documentación, con
+ expresión de los datos registrales, su condición de «Emprendedor de Responsabil
+idad Limitada» o mediante la adición a su nombre, apellidos y datos de identific
+ación fiscal de las siglas «ERL».
+\end_layout
+
+\begin_layout Subsubsection
+Ventajas
+\end_layout
+
+\begin_layout Itemize
+El emprendedor podrá limitar su responsabilidad por las deudas derivadas
+ del ejercicio de dicha actividad empresarial o profesional.
+\end_layout
+
+\begin_layout Itemize
+Es una forma empresarial idónea para el funcionamiento de empresas de muy
+ reducido tamaño.
+\end_layout
+
+\begin_layout Itemize
+No hay que realizar ningún trámite de adquisición de la personalidad jurídica,
+ pero sí es necesario inscribir en el Registro Mercantil y en el Registro
+ de la Propiedad la condición de Empresario de Responsabilidad Limitada
+ indicando los datos de la vivienda habitual que quedará excluida de la
+ responsabilidad de la empresa.
+\end_layout
+
+\begin_layout Itemize
+Puede resultar más económica, dado que no se crea persona jurídica distinta
+ del propio empresario.
+\end_layout
+
+\begin_layout Subsubsection
+Inconvenientes
+\end_layout
+
+\begin_layout Itemize
+Es necesaria la inscripción en el Registro Mercantil.
+\end_layout
+
+\begin_layout Itemize
+El empresario responde con su patrimonio personal de las deudas generadas
+ en su actividad, excepto su vivienda habitual bajo determinadas condiciones.
+\end_layout
+
+\begin_layout Itemize
+Si el empresario o empresaria están casados puede dar lugar a que sus actividade
+s alcancen al otro cónyuge, según la clase de bienes: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Los bienes propios de los cónyuges empresarios quedan obligados a los resultados
+ de la actividad empresarial.
+\end_layout
+
+\begin_layout Itemize
+Los bienes gananciales pueden quedar obligados por consentimiento expreso
+ o por presencia y consentimiento.
+\end_layout
+
+\begin_layout Itemize
+Los bienes privativos del cónyuge del empresario pueden quedar obligados
+ por consentimiento expreso en escritura pública.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tributa por tipos más elevados cuanto mayor es su volumen de renta.
+\end_layout
+
+\begin_layout Itemize
+Obligación de elaborar y depositar anualmente en el Registro Mercantil las
+ cuentas anuales de la actividad.
+\end_layout
+
+\begin_layout Subsection
+Responsabilidad
+\end_layout
+
+\begin_layout Standard
+El empresario responde con su patrimonio personal de las deudas generadas
+ en su actividad.
+ Queda exceptuada su vivienda habitual siempre que se cumplan las siguientes
+ condiciones:
+\end_layout
+
+\begin_layout Itemize
+El valor de la vivienda no puede superar los 300.000 €.
+ Esta valoración se realiza conforme a la base imponible del Impuesto sobre
+ Transmisiones Patrimoniales y Actos Jurídicos Documentados en el momento
+ de la inscripción en el Registro Mercantil.
+\end_layout
+
+\begin_layout Itemize
+En el caso de viviendas situadas en población de más de 1.000.000 de habitantes
+ se aplicará un coeficiente del 1,5 al valor del párrafo anterior.
+\end_layout
+
+\begin_layout Itemize
+En la inscripción del Registro Mercantil correspondiente a su domicilio
+ se indicará el bien inmueble, propio o común, que se pretende no quede
+ obligado por las resultas del giro empresarial o profesional.
+\end_layout
+
+\begin_layout Itemize
+No podrá beneficiarse de la limitación de responsabilidad el deudor que
+ hubiera actuado con fraude o negligencia grave en el cumplimiento de sus
+ obligaciones con terceros, siempre que así conste por sentencia firme o
+ en concurso declarado culpable.
+\end_layout
+
+\begin_layout Itemize
+Salvo que los acreedores presten su consentimiento expresamente, subsistirá
+ la responsabilidad universal del deudor por las deudas contraídas con anteriori
+dad a su inscripción en el Registro Mercantil como emprendedor individual
+ de responsabilidad limitada.
+\end_layout
+
+\begin_layout Standard
+Transcurridos siete meses desde el cierre del ejercicio social sin que se
+ hayan depositado las cuentas anuales en el Registro Mercantil, el emprendedor
+ perderá el beneficio de la limitación de responsabilidad en relación con
+ las deudas contraídas con posterioridad al fin de ese plazo.
+ Recuperará el beneficio en el momento de la presentación.
+\end_layout
+
+\begin_layout Standard
+Si el empresario/a está casado puede dar lugar a que la responsabilidad
+ derivada de sus actividades alcance a su cónyuge.
+ Por ello hay que tener en cuenta el régimen económico que rige el matrimonio
+ y la naturaleza de los bienes en cuestión.
+\end_layout
+
+\begin_layout Standard
+En este sentido, conviene aclarar lo siguiente:
+\end_layout
+
+\begin_layout Itemize
+Los bienes privativos del empresario quedan obligados a los resultados de
+ la actividad empresarial.
+ 
+\end_layout
+
+\begin_layout Itemize
+Los bienes destinados al ejercicio de la actividad y los adquiridos como
+ consecuencia de dicho ejercicio, responden en todo caso del resultado de
+ la actividad empresarial.
+ 
+\end_layout
+
+\begin_layout Itemize
+En el régimen de bienes gananciales, cuando se trata de bienes comunes del
+ matrimonio, para que éstos queden obligados será necesario el consentimiento
+ de ambos cónyuges.
+ El consentimiento se presume cuando se ejerce la actividad empresarial
+ con conocimiento y sin oposición expresa del cónyuge y también cuando al
+ contraer matrimonio uno de los cónyuges ejerciese la actividad y continuase
+ con ella sin oposición del otro.
+ 
+\end_layout
+
+\begin_layout Itemize
+Los bienes privativos del cónyuge del empresario no quedan afectos al ejercicio
+ de la actividad empresarial, salvo que exista un consentimiento expreso
+ de dicho cónyuge.
+ 
+\end_layout
+
+\begin_layout Itemize
+En todo caso, el cónyuge puede revocar libremente el consentimiento tanto
+ expreso como presunto.
+\end_layout
+
+\begin_layout Itemize
+El empresario individual no está obligado a inscribirse en el Registro Mercantil
+, aunque puede ser conveniente inscribirse entre otras razones para registrar
+ los datos relativos al cónyuge, el régimen económico del matrimonio, las
+ capitulaciones, así como el consentimiento, la revocación u oposición del
+ cónyuge a la afección a la actividad empresarial de los bienes comunes
+ o los privativos.
+\end_layout
+
+\begin_layout Subsection
+Fiscalidad
+\end_layout
+
+\begin_layout Standard
+Impuesto sobre la renta de las personas físicas (IRPF): rendimiento por
+ actividades económicas.
+\end_layout
+
+\begin_layout Subsection
+Normativa
+\end_layout
+
+\begin_layout Itemize
+El Código de Comercio en materia mercantil y el Código Civil en materia
+ de derechos y obligaciones.
+\end_layout
+
+\begin_layout Itemize
+Ley 20/2007 del estatuto del trabajo autónomo.
+\end_layout
+
+\begin_layout Itemize
+Ley 6/2017 de Reformas Urgentes del Trabajo Autónomo.
+\end_layout
+
+\begin_layout Itemize
+Real Decreto 197/2009, por el que se desarrolla el Estatuto del Trabajo
+ Autónomo en materia de contrato del trabajador autónomo económicamente
+ dependiente y su registro y se crea el Registro Estatal de asociaciones
+ profesionales de trabajadores autónomos.
+\end_layout
+
+\begin_layout Itemize
+Ley 14/2013 de apoyo a los emprendedores y su internacionalización.
+\end_layout
+
+\begin_layout Itemize
+Ley 31/2015 por la que se modifica y actualiza la normativa en materia de
+ autoempleo y se adoptan medidas de fomento y promoción del trabajo autónomo
+ y de la Economía Social.
+\end_layout
+
+\begin_layout Subsection
+Número de socios
+\end_layout
+
+\begin_layout Standard
+Un socio.
+\end_layout
+
+\begin_layout Subsection
+Capital
+\end_layout
+
+\begin_layout Standard
+No se requiere un capital social mínimo.
+\end_layout
+
+\end_body
+\end_document

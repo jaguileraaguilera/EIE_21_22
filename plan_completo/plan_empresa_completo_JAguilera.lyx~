@@ -1,0 +1,5773 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Plan de empresa: Ordenadores del Sur
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera 2º CFGS Desarrollo de Aplicaciones Web
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Resumen ejecutivo 
+\end_layout
+
+\begin_layout Standard
+Ordenadores del Sur es una empresa que se dedica a la venta de ordenadores
+ de sobremesa fabricados por piezas enfocada a minoristas.
+ Compraremos componentes a mayoristas y ensamblaremos en nuestras instalaciones
+ diferentes configuraciones de ordenadores con una amplia gama de precios
+ empezando desde ordenadores básicos de oficina, orientados a multimedia,
+ videojuegos, diseño, desarrollo o uso general.
+ Todos los equipos vendidos contarán de serie con Linux Mint instalado.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align left
+\begin_inset Graphics
+	filename linux_mint_web_page.png
+	lyxscale 30
+	scale 30
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+https://linuxmint.com/ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Linux Mint ofrece al usuario una experiencia “out-of-the-box” desde el momento
+ en el que se realiza la instalación con un set completo de programas básicos.
+ Tiene una usabilidad muy cuidada con herramientas gráficas para realizar
+ cualquier tipo de configuración del sistema.
+ El instalador de Linux Mint ofrece una opción de instalación OEM (fabricante
+ de equipo original) que deja el sistema listo para que en el primer uso
+ el usuario introduzca los datos y personalice su equipo.
+ Siempre ofreceremos la opción de instalar Windows, pagando el coste de
+ la licencia.
+\end_layout
+
+\begin_layout Standard
+Nos centraremos en una gama más bien cerrada de opciones por varios motivos:
+\end_layout
+
+\begin_layout Itemize
+Simplicidad: Al haber tantas opciones disponibles el cliente se satura con
+ tanta variedad a elegir.
+ Nosotros en su lugar escogemos los que consideramos mejores de cara a cierto
+ uso y ese es el producto que le ofrecemos.
+ Esto nos permite reducir variedad en el stock, con las complicaciones logística
+s que supone y poder comprar en gran volumen ciertos productos, pudiendo
+ obtener así mejores precios.
+\end_layout
+
+\begin_layout Itemize
+Rapidez: Nuestra página web, mediante una serie de filtros de búsqueda que
+ se implementarán permitirá al cliente elegir el producto adecuado sin tener
+ que invertir mucho tiempo.
+ 
+\end_layout
+
+\begin_layout Standard
+La viabilidad del proyecto reside en la acuciante necesidad de dotar de
+ un ecosistema informático válido para la realización del teletrabajo y
+ el auge del ocio vía tecnología.
+ Nosotros nos encargamos de simplificar el proceso de selección y establecemos
+ configuraciones adecuadas para cada tipo de usuario.
+\end_layout
+
+\begin_layout Standard
+El principal promotor del proyecto seré yo (el autor de este plan de empresa).
+ Creo que cuento con los conocimientos mínimos necesarios para poder emprender
+ esta aventura, desde el conocimiento técnico necesario pasando por las
+ habilidades de gestión mínimas indispensables y una capacidad de trabajo
+ inagotable.
+ 
+\end_layout
+
+\begin_layout Standard
+Esta previsto que la empresa empiece a funcionar a principios de 2023.
+\end_layout
+
+\begin_layout Section
+Presentación de los promotores
+\end_layout
+
+\begin_layout Standard
+Habiendo cursado un CFGS Desarrollo de Aplicaciones Web cuento con los conocimie
+ntos necesarios para la creación y el mantenimiento de una página web corporativ
+a que permita la compra-venta de los productos que ofertaremos.
+ Tengo conocimientos básicos sobre la gestión completa de una empresa: RRHH,
+ producción, aprovisionamiento, marketing, financiación ...
+\end_layout
+
+\begin_layout Standard
+Tengo experiencia previa en el trabajo como autónomo: De unos años a esta
+ parte he sido parte fundamental de una empresa agrícola familiar, llegando
+ a desempeñar todo tipo de tareas.
+ En algunos períodos incluso siendo el único empleado.
+\end_layout
+
+\begin_layout Standard
+Rasgos de personalidad destacables para la buena marcha de la empresa son
+ mi capacidad de análisis de los problemas, el espíritu de trabajo, capacidad
+ de trabajo autónomo o el gusto por el trabajo bien hecho, entre otras cualidade
+s destacables.
+\end_layout
+
+\begin_layout Section
+Cultura empresarial: misión, visión y valores.
+ Responsabilidad social corporativa y balance social.
+\end_layout
+
+\begin_layout Standard
+Nuestra misión es ser la empresa líder en ventas de productos informáticos
+ que solucionen las necesidad de nuestros clientes con el objetivo de ofrecer
+ la mejor relación coste-funcionalidad-precio.
+ Para conseguirlo vamos a intentar crecer a base de vender la mayor cantidad
+ de productos posibles.
+\end_layout
+
+\begin_layout Standard
+Como parte de la responsabilidad social corporativa la empresa todos los
+ años va a dedicar una parte de los beneficios a donaciones a proyectos
+ de software libre (Linux Mint, Libreoffice, Fundación Mozilla, ...) y a la
+ promoción de estos en nuestra página web en conjunto con nuestros productos.
+\end_layout
+
+\begin_layout Standard
+Se intentará en la medida que los resultados económicos acompañen elegir
+ como proveedores de servicios y productos aquellas empresas que se encuentren
+ comprometidas con el cuidado del medio ambiente, por ejemplo contratando
+ el suministro eléctrico con una empresa que garantice que el origen de
+ la energía procede de fuentes 100% renovables o instalando paneles solares
+ en nuestras naves.
+\end_layout
+
+\begin_layout Standard
+También, si el espacio de almacenaje que dispongamos fuera excedentario,
+ podría destinarse parte de este a la recepción de desechos electrónicos
+ y contactar con empresas de reciclado para el correcto tratamiento de estos.
+\end_layout
+
+\begin_layout Standard
+También podríamos implentar en nuetra web la opción de que al realizar una
+ compra de un producto, si el cliente cuenta con otro viejo, la empresa
+ de paquetería se encargue de recogerlo y traerlo de vuelta a nuestros almacenes.
+\end_layout
+
+\begin_layout Standard
+Las opciones de cara a reforzar la imagen de la empresa y mejorar el balance
+ social son muchas y muy variadas.
+ A razón del beneficio de la explotación podremos implentar éstas con una
+ mayor o menor intensidad, siempre en sentido ascendente.
+\end_layout
+
+\begin_layout Section
+Estudio de mercado
+\end_layout
+
+\begin_layout Subsection
+Características del mercado en el que opera la empresa
+\end_layout
+
+\begin_layout Standard
+El mercado en el que trabajamos es muy competitivo y dinámico.
+ Se manejan unos márgenes pequeños por unidad vendidad y los sueldos a pagar
+ a los empleados a la empresa suponen un gran gasto debido a los impuestos
+ a soportar.
+ En el caso de los ordenadores que ensamblamos aportamos valor añadido a
+ la cadena al crear un producto final a partir de partes sueltas dando lugar
+ a cierto margen.
+\end_layout
+
+\begin_layout Standard
+Ahora mismo, y a unos años vista es un sector en auge y con posiblidades
+ de expansión a la venta de otro tipo de productos relacionados o no debido
+ a que la logística asociada al proceso de venta es escalable.
+\end_layout
+
+\begin_layout Subsection
+Análisis de los consumidores o clientes
+\end_layout
+
+\begin_layout Standard
+Nuestros clientes objetivo serán particulares y pequeñas empresas.
+ Para este tipo de clientela no hace falta mucha inversión para comenzar,
+ ya que los pedidos a realizar no serán de muchas unidades y así podremos
+ tener un stock reducido favoreciendo el 
+\emph on
+Just in time
+\emph default
+, con el ahorro de costes de almacenamiento que nos supone.
+ Como gran desventaja a tener en cuenta está que es una clientela 
+\begin_inset Quotes eld
+\end_inset
+
+huidiza
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Con esto quiero decir que es díficil de fidelizar y que busca, compara,
+ y sobre todo cambia de proveedor debido a que cuenta con mayor flexibilidad
+ y muchísimas opciones donde elegir.
+\end_layout
+
+\begin_layout Standard
+Nuestro objetivo será fidelizar a la clientela con productos personalizados
+ por funcionalidad y actualizados a las últimas tecnologías del mercado.
+\end_layout
+
+\begin_layout Subsection
+Análisis de la competencia
+\end_layout
+
+\begin_layout Standard
+La competencia es variada y feroz.
+ Cuenta con actores de diversa índole, desde la 
+\begin_inset Quotes eld
+\end_inset
+
+tienda de informática de barrio
+\begin_inset Quotes erd
+\end_inset
+
+ o vendedores de eBay, pasando por grandes empresas nacionales como PCComponente
+s hasta llegar a internacionales como Amazon, Dell o Lenovo.
+ 
+\end_layout
+
+\begin_layout Standard
+Todas y cada una de ellas se dedican a la venta de ordenadores, su ensamblaje
+ o ambos a la vez.
+ Sin hacer una búsqueda muy exhaustiva, podemos encontrar:
+\end_layout
+
+\begin_layout Itemize
+eBay: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.ebay.es/usr/exeom-fabrica?_trksid=p2047675.m3561.l2559
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+PCcomponentes: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.pccomponentes.com/configurador/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Dell: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.dell.com/es-es/work/shop/deals/desktop-deals
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La competencia también pueden ser en parte aliados, ya que podemos hacer
+ uso de los recursos que ellos mismos ofrecen, por ejemplo, dándonos de
+ alta en eBay como vendedor y creando un perfil en el que se ofrezcan los
+ mismos productos que en nuestra web o vendiéndolos por Amazon.
+ No es nuestro objetivo final el ser vendedor por eBay o Amazon, sino lanzar
+ las ventas desde nuestro propio portal, ya que ni eBay ni Amazon son 
+\begin_inset Quotes eld
+\end_inset
+
+hermanitas de la Caridad
+\begin_inset Quotes erd
+\end_inset
+
+ y por cada venta que se realiza en sus portales ellos se llevan su respectiva
+ comisión y nosotros, como es normal, esa comisión se verá reflejada en
+ un aumento en el precio de venta del producto.
+ No obstante, sería interesante no descartar ninguna opción y por ejemplo,
+ en las primeras andanzas de la empresa si es necesario acudir a ventas
+ en estos sitios, pues así se hará.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.aboutamazon.es/historias-amazon/apoyo-a-las-pymes/pequenas-y-medianas-
+empresas-exito-y-resiliencia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Análisis de los proveedores
+\end_layout
+
+\begin_layout Standard
+El caso de PCcomponentes es curioso (como otros muchos), dando nuestras
+ credenciales como empresa del sector podemos acceder a mejores precios
+ de compra:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.pccomponentes.com/condiciones-de-distribucion
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Pasando a ser de competencia a aliado.
+ Otros proveedores a reseñar son:
+\end_layout
+
+\begin_layout Itemize
+Inexopcion : 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://inpexopcion.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Megasur: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.megasur.es/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Globomatik: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.globomatik.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Depau: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.depau.es/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cabe destacar que a excepción de PCcomponentes e Inexopcion, el resto de
+ proveedores de componentes no dan información alguna sobre los precios
+ hasta que no se realice el registro en su portal y se de constancia de
+ la condición de empresa.
+ En las excepciones señaladas los precios que se nos muestran son aquellos
+ determinados para la venta a minorista.
+ No obstante, en todo caso sirven para tener una referencia del escandallo
+ de un ordenador de cara a fijar costes iniciales.
+\end_layout
+
+\begin_layout Subsection
+Análisis DAFO y determinación de estrategias
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align left
+\begin_inset Graphics
+	filename matriz_de_factores.png
+	lyxscale 70
+	scale 70
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Matriz de factores
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align left
+\begin_inset Graphics
+	filename matriz_estrategias.png
+	lyxscale 70
+	scale 70
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Matriz de estrategias
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align left
+\begin_inset Graphics
+	filename matriz_came_i.png
+	lyxscale 70
+	scale 70
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Análisis CAME I
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align left
+\begin_inset Graphics
+	filename matriz_came_ii.png
+	lyxscale 70
+	scale 70
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Análisis CAME II
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Plan de marketing
+\end_layout
+
+\begin_layout Subsection
+Estrategia de producto
+\end_layout
+
+\begin_layout Subsubsection
+Gama y características
+\end_layout
+
+\begin_layout Standard
+Se van a ofrecer una amplia gama de de modelos, partiendo desde unos 400
+ € hasta llegar a 1200€, aproximadamente.
+ El enfoque de la oferta no se realiza en vista al precio sino a la funcionalida
+d ofrecida por el coste a asumir por parte del cliente, dividiendo los modelos
+ en básicos de oficina, orientados a multimedia, videojuegos, diseño, desarrollo
+ o uso general.
+ De cara a minizar costes, el componente más 
+\begin_inset Quotes eld
+\end_inset
+
+superfluo
+\begin_inset Quotes erd
+\end_inset
+
+ de un ordenador actual es la torre y dadas las características de nuestra
+ gama es donde vamos intentar ahorrar más.
+ Va a dar lugar a ordenadores estéticamente 
+\begin_inset Quotes eld
+\end_inset
+
+feos
+\begin_inset Quotes erd
+\end_inset
+
+ pero esos euros de ahorro suponen poder equipar un mejor procesador (actualment
+e bastante caros por la alta demanda y los problemas de stock de los fabricantes
+) o un disco duro con mayores tasas de lectura-escritura.
+\end_layout
+
+\begin_layout Standard
+El ordenador se entrega al cliente con Linux Mint instalado de fábrica,
+ una pegatiga con el logo de la empresa, las cajas de los componentes ensamblado
+s con todos sus manuales y un cable de alimentación.
+\end_layout
+
+\begin_layout Subsubsection
+Servicios relacionados: Entrega, garantía, financiación.
+\end_layout
+
+\begin_layout Standard
+Se entregará a domicilio y contará con el período de garantía legal estipulado.
+ La posventa la gestionaremos desde la misma empresa y el protocolo a seguir
+ es contactar con el fabricante del componente original y proceder a la
+ sustitución y/o reparación de la pieza en cuestión.
+ Nosotros no nos dedicamos a reparar componentes, sino a quitarlos y ponerlos.
+\end_layout
+
+\begin_layout Standard
+Se podrá pagar vía tarjeta bancaria, por transferencia o PayPal en un único
+ pago.
+\end_layout
+
+\begin_layout Subsubsection
+Con respecto a los competidores
+\end_layout
+
+\begin_layout Standard
+Ofrecemos un producto con un precio ajustado y completamente funcional,
+ ya que cuenta con el sistema operativo instalado.
+ Productos sustitutivos pueden ser ordenadores de otros vendedores de ordenadore
+s clónicos o fabricantes 
+\begin_inset Quotes eld
+\end_inset
+
+oficiales
+\begin_inset Quotes erd
+\end_inset
+
+ como Dell, HP, Lenovo, Acer ....
+\end_layout
+
+\begin_layout Standard
+Productos complementarios muy adecuados son monitores, períféricos, venta
+ de componentes sueltos, cables, ...
+ Las opciones son muy diversas y las posibilidades lo permiten.
+ Por el ejemplo, el mayorista Inexopcion ofrece un servicio de 
+\emph on
+Dropshipping
+\emph default
+: Consiste en que el mayorista pone a tu disposición todo su catálogo y
+ en el caso de recibir un pedido, yo como vendedor solo tengo que replicar
+ ese pedido al mayorista y él envía a mi cliente el pedido sin pasar por
+ mis manos (con la posibilidad de un embalaje y etiquetado que no lo identifique
+ directamente).
+ De esta forma, mi catálogo puede ser igual de extenso que el suyo pero
+ sin tener la necesidad de tener en stock en mi almacén los productos que
+ voy a vender, con el ahorro de costes de que esto supone.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://inpexopcion.com/content/dropshipping-informatica
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Estrategia de precios
+\end_layout
+
+\begin_layout Standard
+El precio de nuestros productos será equivalente al de la suma los componentes
+ y accesorios junto con el envío más un margen a establecer.
+\end_layout
+
+\begin_layout Subsection
+Estrategia de distribución
+\end_layout
+
+\begin_layout Standard
+Nuestros productos se venderán desde nuestro portal web y llegarán a nuestros
+ clientes por paquetería.
+\end_layout
+
+\begin_layout Subsection
+Estrategia de presencia
+\end_layout
+
+\begin_layout Standard
+La página web contará con un diseño sencillo y amigable, respetando todas
+ las normas de accesibilidad establecidas.
+ Contará con distintos filtros de búsqueda para poder llegar más rápido
+ al tipo de producto deseado.
+ Así como una división en secciones que permita diferenciar con claridad
+ la tipología de cada producto.
+\end_layout
+
+\begin_layout Subsection
+Estrategia de marketing digital
+\end_layout
+
+\begin_layout Standard
+Contaremos con la página web de la empresa y perfiles en las distintas redes
+ sociales (Facebook, Instagram, Twitter...) con el objetivo de promocionar
+ nuestros productos.
+\end_layout
+
+\begin_layout Section
+Plan operativo
+\end_layout
+
+\begin_layout Subsection
+Proceso productivo y operativo
+\end_layout
+
+\begin_layout Standard
+El proceso de montado de un ordenador consta de las siguientes fases:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Paso
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Proceso
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tiempo
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Seleccionar piezas a ensamblar del almacén
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Desembalaje componentes, prepararación espacio de trabajo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ensamblaje del ordenador
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15-20 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Control de calidad
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Instalación sistema operativo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Embalaje del ordenador en paquete
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Clasificación del paquete en almacén y registro en el stock
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 minutos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fases a realizar
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se estima que el tiempo muerto entre ordenador y ordenador es de unos 10
+ minutos.
+ El total de tiempo invertido en todo el proceso es, en el peor de los casos,
+ 1.5h aproximadamente.
+\end_layout
+
+\begin_layout Standard
+En el caso de que fuera un técnico contratado por la empresa, aplicando
+ el convenio colectivo de consultoría y estudios de mercado y de la opinión
+ pública (informática), con un computo anual de 1800h trabajadas, se podrían
+ montar unos 1200 ordenadores.
+ 
+\end_layout
+
+\begin_layout Standard
+Las fases a realizar se han detallado en el caso de que se trabaje de forma
+ 
+\begin_inset Quotes eld
+\end_inset
+
+artesanal
+\begin_inset Quotes erd
+\end_inset
+
+, con esto quiero decir que el operario solo está trabajando en un único
+ ordenador y suponiendo que se montan ordenadores distintos.
+ De cara a optimizar los tiempos, se prevee que se trabaje en cadena y en
+ un día solo se monte una configuración concreta de ordenador y, mediante
+ una disposición en hilera, se trabaje con varios equipos al mismo tiempo
+ tiempo.
+\end_layout
+
+\begin_layout Standard
+No obstante, esta estimación es adecuada ya que al principio solo trabajaré
+ yo y los ordenadores los construiré casi a demanda, montando en un día
+ distintos modelos y teniendo un stock más bien chico.
+\end_layout
+
+\begin_layout Standard
+Las herramientas y materias primas que se utilizarán son:
+\end_layout
+
+\begin_layout Itemize
+Componentes de PC, cuyo número depende de la configuración elegida, aunque
+ casi de obligada aparición son: Fuente alimentación, disco duro, memoria
+ RAM, CPU, disipador CPU, torre, placa base y una tarjeta gráfica si la
+ CPU no la tuviese integrada.
+\end_layout
+
+\begin_layout Itemize
+Mesa/puesto de trabajo.
+\end_layout
+
+\begin_layout Itemize
+Monitor con cable de alimentación y señal de vídeo.
+\end_layout
+
+\begin_layout Itemize
+Ratón y teclados usb inalámbricos con receptor compartido.
+\end_layout
+
+\begin_layout Itemize
+Conexión red wifi.
+\end_layout
+
+\begin_layout Itemize
+Muñeca antiestática, bridas, pasta térmica, alcohol isopropílico, algodón,
+ alicates de electricista, juego de destornilladores de precisión, tornillería
+ necesaria, cable de alimentación, pendrive con la iso del sistema operativo
+ cargada.
+\end_layout
+
+\begin_layout Itemize
+Papel de burbuja, cinta de embalar, celo, caja de carton, porexpan de relleno.
+\end_layout
+
+\begin_layout Itemize
+Un ordenador operativo con el que gestionar el stock.
+\end_layout
+
+\begin_layout Subsection
+Localización
+\end_layout
+
+\begin_layout Subsubsection
+Dirección del lugar en el que radica la empresa
+\end_layout
+
+\begin_layout Standard
+Polígono Juncaríl, calle Baza nº 4, Albolote.
+\end_layout
+
+\begin_layout Subsubsection
+Descripción física del mismo con datos relativos a superficie, distribución,
+ diseño del espacio y mapa de ubicación
+\end_layout
+
+\begin_layout Standard
+Es una nave comercial que cuenta con una superficie de 150 m^2 con un altillo
+ de 25 m^2 con cabestrante, para poder subir cosas.
+ Cuenta con un baño con lavabo, plato de ducha, termo y una pequeña oficina.
+ La nave en sí son 125 m^2 y los otros 25 restantes hasta 150 son los ocupados
+ por la oficina y el baño.
+\end_layout
+
+\begin_layout Standard
+El croquis de la nave sería el siguiente:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../t4_plan_operativo_rrhh/plan_empresa_u4.1/croquis.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Croquis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La ubicación en Google Maps es la siguiente:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.google.es/maps/place/C.+Baza,+4,+18220+Albolote,+Granada/@37.2314118,-3.6
+477883,18z/data=!4m5!3m4!1s0xd71fdf1ee14f25f:0x8e9dcfc9ec2cc40c!8m2!3d37.2315108!
+4d-3.6477426
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Servicios de los que dispone la zona que puedan aportar ventajas y aspectos
+ negativos que representen inconvenientes.
+\end_layout
+
+\begin_layout Standard
+La zona es un polígono industrial que dispone de gran cantidad de empresas.
+ Esto supone una ventaja de cara a obtener material de trabajo, como elementos
+ de almacenaje o cableado o incluso a la hora de realizar el envío de los
+ ordenadores ya que empresas de transporte como Nacex cuentan con sedes
+ allí.
+ También obtenemos más metros usables por menos precio.
+\end_layout
+
+\begin_layout Standard
+Como principal inconveniente está el desplazamiento desde mi domicilio o
+ el de mis futuros trabajadores a la empresa.
+\end_layout
+
+\begin_layout Subsubsection
+Razones de la elección relacionándola con la actividad de la empresa.
+\end_layout
+
+\begin_layout Standard
+La nave permite almacenar los componentes y los ordenadores montados y poder
+ ensamblarlos allí ya que se cuenta con suministro eléctrico y la posibilidad
+ de poder contratar internet.
+\end_layout
+
+\begin_layout Subsubsection
+Importe de la hipoteca o del alquiler mensual y estimación de costes asociados
+ a la localización.
+\end_layout
+
+\begin_layout Standard
+El coste del alquiler es de 450€ mensuales.
+ Estimo que en recibos de electricidad, agua, recogida de residuos e internet
+ serán de aproximadamente 200€ mensuales.
+\end_layout
+
+\begin_layout Standard
+Anuncio de la nave: 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.milanuncios.com/alquiler-de-naves-industriales-en-torrenueva-granada/p
+oligono-juncaril-baza-4-438454919.htm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Plan de recursos humanos y organización
+\end_layout
+
+\begin_layout Subsection
+Convenio colectivo de la empresa
+\end_layout
+
+\begin_layout Standard
+Será de aplicación el convenio colectivo de consultoría y estudios de mercado
+ y de la opinión pública (informática).
+\end_layout
+
+\begin_layout Subsection
+Puestos de trabajo y perfil profesional
+\end_layout
+
+\begin_layout Standard
+Teniendo en cuenta el plan operativo diseñado anteriormente, el primer trabajado
+r a incorporar a la empresa será un técnico en sistemas microinformáticos.
+ Sus funciones serán el montado de los ordenadores a poner en venta, la
+ realización del control de calidad una vez ensamblados y la gestión de
+ las garantías de los equipos en venta.
+ Se requiere que cuente con el menos 3 años de experiencia en una actividad
+ de índole similar.
+ Dentro del colectivo, será de aplicación el área 3: consultoría, desarrollo
+ y sistemas, grupo E, nivel 1; que se corresponde un salario de 14800.66
+ €
+\end_layout
+
+\begin_layout Subsection
+Contratación, retribución y costes salariales
+\end_layout
+
+\begin_layout Standard
+El contrato a realizar será de tipo indefinido, dividiendo los 14800.66 €
+ en 14 pagas proporcionales, 12 mensuales y 2 extraordinarias.
+ No se prevee la realización de horas extras salvo fuerza mayor.
+ Los AT/EP cotizan al 2,6% por estar enmarcados en la actividad económica
+ de fabricación de productos informáticos, electrónicos y ópticos.
+ El cálculo del coste del trabajador para la empresa sería:
+\end_layout
+
+\begin_layout Itemize
+SB + PPE = 
+\begin_inset Formula $\frac{14800,66}{14}+2*\frac{\frac{14800.66}{14}}{12}=1233.39\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+BCCc = BCCp = 
+\begin_inset Formula $1233.39*0.236=291.08\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+AT/EP = 
+\begin_inset Formula $1233.39*0.026=32.07\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Desempleo = 
+\begin_inset Formula $1233.39*0.055=67.84\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+FP = 
+\begin_inset Formula $1233.39*0.006=7.40\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+FOGASA = 
+\begin_inset Formula $1233.39*0.002=2.47\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Inprevistos = 
+\begin_inset Formula $1233.39*0.1=123.34\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Total = 
+\begin_inset Formula $1233.39+291.08+32.07+67.84+7.4+2.47+123.34=1757.59€$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El total es el cálculo del coste mensual del empleado para la empresa, que
+ en términos anuales sería de 
+\begin_inset Formula $1757.59*12=21091.08\text{€}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mi coste como autónomo, en principio será de 60€ mensuales al acogerme a
+ la tarifa plana de autónomos, durante el primer año.
+ Esto supone 720€ el año entero.
+ Al año siguiente será de unos 294€ mensuales (cuota de autónomos mínima
+ 2022) que al año son 3528€.
+\end_layout
+
+\begin_layout Standard
+Se subcontratará a una gestoría el tema económico-legislativo suponiendo
+ un coste aproximado de 400 € anuales.
+\end_layout
+
+\begin_layout Subsection
+Planificación y organización de la prevención
+\end_layout
+
+\begin_layout Standard
+Según determina la Ley 31/1995 de Prevención de Riesgos Laborales, antes
+ de iniciar el funcionamiento de la empresa, se debe elaborar la siguiente
+ documentación:
+\end_layout
+
+\begin_layout Itemize
+Evaluación de riesgos de cada puesto de trabajo y planificación de la actividad
+ preventiva.
+\end_layout
+
+\begin_layout Itemize
+Plan de prevención de riesgos laborales.
+\end_layout
+
+\begin_layout Itemize
+Medidas y material de protección y prevención.
+\end_layout
+
+\begin_layout Standard
+Tarea que tratamos en los puntos siguientes.
+\end_layout
+
+\begin_layout Subsubsection
+Riesgos generales asociados al local de trabajo
+\end_layout
+
+\begin_layout Itemize
+Fuente de daño: Lugar de trabajo.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Golpes y atrapamientos.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Mantener el centro de trabajo limpio y ordenado.
+\end_layout
+
+\begin_layout Itemize
+Mantener los pasillos y escaleras libres de obstáculos.
+\end_layout
+
+\begin_layout Itemize
+Las vías de acceso al puesto de trabajo deben permitir el paso sin dificultad.
+\end_layout
+
+\begin_layout Itemize
+Las dimensiones del lugar de trabajo deben permitir realizar las tareas
+ cómodamente.
+\end_layout
+
+\begin_layout Itemize
+Los pavimentos deben ser regulares, no resbaladizos y estar en buenas condicione
+s.
+\end_layout
+
+\begin_layout Itemize
+La anchura mínima de las puertas exteriores debe ser de 80 cm.
+\end_layout
+
+\begin_layout Itemize
+Las puertas automáticas o de apertura vertical deben tener dispositivos
+ de seguridad para impedir su cierre o desplome.
+\end_layout
+
+\begin_layout Itemize
+Las puertas correderas deben tener dispositivos para impedir su salida de
+ los carriles.
+\end_layout
+
+\begin_layout Itemize
+Las puertas y mamparas transparentes deben estar señalizadas.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Instalaciones y equipos eléctricos y de gas.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Electrocución, asfixia e incendio.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Las instalaciones eléctrica y de gas deben estar certificadas y revisadas
+ por un instalador autorizado.
+\end_layout
+
+\begin_layout Itemize
+Mantener las intalaciones de gas y electrica en buen estado de funcionamiento.
+\end_layout
+
+\begin_layout Itemize
+No realizar ninguna reparación por sencilla que parezca.
+\end_layout
+
+\begin_layout Itemize
+Vigilar que las tuberías, gomas, conexiones y quemadores estén en buen estado.
+\end_layout
+
+\begin_layout Itemize
+Comprobar periódicamente el funcionamiento del interruptor diferencia.
+\end_layout
+
+\begin_layout Itemize
+Asegurarse de que todas las bases de enfuche tienen conexión a tierra.
+\end_layout
+
+\begin_layout Itemize
+Asegurarse de que todos los equipos eléctricos se conectan a la red mediente
+ clavijas en buen estado.
+\end_layout
+
+\begin_layout Itemize
+Dejar, inmediatamente, de utilizar los equipos eléctricos y de gas en malas
+ condiciones.
+\end_layout
+
+\begin_layout Itemize
+Asegurarse de que los equipos eléctricos portátiles tienen marcado CE.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Situaciones de emergencia.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Quemaduras, asfixia e incendio
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Los sistemas contraincendio deben estar instalados, señalizados y revisados
+ por una entidad competente.
+\end_layout
+
+\begin_layout Itemize
+Asegurarse de que las fuentes de calor (estufas, hornos, etc.) están alejadas
+ de los materiales combustibles o inflamables.
+\end_layout
+
+\begin_layout Itemize
+Las vías y salidas de evacuación deben estar señalizadas y mantenerse libres
+ de obstáculos.
+\end_layout
+
+\begin_layout Itemize
+Disponer de alumbrado de emergencia para facilitar la evacuación.
+\end_layout
+
+\begin_layout Itemize
+Comprobar, periódicamente, el estado de la instalación de extinción (p.
+ ej.
+ extintores) y del alumbrado de emergencia.
+\end_layout
+
+\begin_layout Itemize
+Asegurarse de saber cómo actuar en caso de incendio u otra emergencia.
+\end_layout
+
+\begin_layout Itemize
+Las puertas de emergencia deben abrirse hacia el exterior y sin necesidad
+ de llave.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Tráfico y circulación
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Accidentes de tráfico.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Respetar las normas de circulación y las recomendaciones de la Dirección
+ General de Tráfico.
+\end_layout
+
+\begin_layout Itemize
+Seguir el calendario de revisiones del fabricante del vehículo y pasar las
+ ITV reglamentarias.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Mobiliario.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Golpes y desplome de objetos.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Las estanterías altas deben ser estables o estar ancladas a la pared.
+\end_layout
+
+\begin_layout Itemize
+En las estanterías se deben colocar los objetos más pesados en los niveles
+ inferiores y los más ligeros en la parte superior.
+\end_layout
+
+\begin_layout Itemize
+Las mesas y archivadores deben tener dispositivos antivuelco (que impidan
+ la apertura de dos cajones simultáneamente).
+\end_layout
+
+\begin_layout Itemize
+Los cajones deben tener dispositivos para evitar su salida de las guías.
+\end_layout
+
+\begin_layout Itemize
+No utilizar del mobiliario (sillas, cajoneras, etc.) a modo de escaleras.
+\end_layout
+
+\begin_layout Itemize
+Se debe evitar el apilamiento inestable de materiales en la parte superior
+ de los armarios y las estanterías altas.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Condiciones ambientales.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Daños por falta de ilumniación.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+La iluminación general debe ser suficiente para poder circular sin dificultad.
+\end_layout
+
+\begin_layout Itemize
+La iluminación del puesto de trabajo permite realizar las tareas con comodidad.
+\end_layout
+
+\begin_layout Itemize
+Las ventanas deben tener elementos, como cortinas o estores, para modular
+ la luz natural.
+\end_layout
+
+\begin_layout Itemize
+Las luminarias deben incorporar sistemas, como pantallas o difusores, para
+ evitar deslumbramientos.
+\end_layout
+
+\begin_layout Itemize
+Sustituir rápidamente las lámparas fundidas o parpadeantes.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Riesgos: Trastornos derivados de la mala temperatura y de la mala climatización.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Asegurarse unas condiciones de temperatura y humedad confortables.
+\end_layout
+
+\begin_layout Itemize
+Garantizar la renovación del aire mediante una buena ventilación.
+\end_layout
+
+\begin_layout Itemize
+Mantener los sistemas de climatización de acuerdo con las instrucciones
+ del fabricante.
+\end_layout
+
+\begin_layout Itemize
+Evitar la ubicación del puesto de trabajo en zonas afectadas por corrientes
+ de aire molestas.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Riesgos: Trastornos derivados del ruido.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+El local debe estar aislado del ruido exterior para no perturbar el desarrollo
+ normal del trabajo.
+\end_layout
+
+\begin_layout Itemize
+Alejar los equipos ruidosos del puesto de trabajo.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Situaciones de violencia.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Agresiones y atracos.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Disponer de mecanismos de seguridad y protección frente a atracos.
+ (P.
+ ej.
+ alarmas, cámaras, etc.).
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsubsection
+Riesgos generales asociados a las tareas específicas
+\end_layout
+
+\begin_layout Itemize
+Fuente de daño: Herramientas específicas.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Heridas, proyección de partículas.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Verificar la correcta colocación de elementos auxiliares como brocas, discos
+ abrasivos, sierras, etc.
+\end_layout
+
+\begin_layout Itemize
+Realizar un correcto uso y mantenimiento de los útiles de trabajo (afilados,
+ limpios, etc.).
+\end_layout
+
+\begin_layout Itemize
+Utilizar máquinas y herramientas a motor con marcado CE.
+\end_layout
+
+\begin_layout Itemize
+Guardar y almacenar las herramientas correctamente.
+\end_layout
+
+\begin_layout Itemize
+Utilizar las máquinas y herramientas siguiendo las instrucciones del fabricante.
+\end_layout
+
+\begin_layout Itemize
+Utilizar equipos de protección individual, como guantes, gafas o mascarillas,
+ en las operaciones que lo requieran.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Trastornos de las extremidades superiores:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Utilizar herramientas eléctricas para evitar realizar movimientos repetitivos.
+\end_layout
+
+\begin_layout Itemize
+Usar herramientas y útiles de trabajo con diseño ergonómico.
+\end_layout
+
+\begin_layout Itemize
+Hacer alguna pausa para relajar y estirar los músculos.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Pantallas de visualización de datos (PVD).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Sobrecarga física y mental.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Colocar la pantalla a unos 40 o 50 cm de los ojos.
+\end_layout
+
+\begin_layout Itemize
+Colocar la pantalla para que no aparezcan reflejos o deslumbramientos.
+\end_layout
+
+\begin_layout Itemize
+El respaldo de las sillas debe ser regulable en altura y tener apoyo lumbar.
+\end_layout
+
+\begin_layout Itemize
+Disponer de, al menos, 10 cm libres entre el borde de la mesa y el teclado
+ para apoyar las muñecas.
+\end_layout
+
+\begin_layout Itemize
+Ajustar el mobiliario para adoptar una postura cómoda.
+\end_layout
+
+\begin_layout Itemize
+Realizar pausas y estiramientos para prevenir el sedentarismo.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Escaleras de mano.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Caídas.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Las escaleras deben estar en buen estado de conservación y tener la altura
+ suficiente para el trabajo que se realiza.
+\end_layout
+
+\begin_layout Itemize
+Comprobar la estabilidad de la escalera y colocarla sobre superficies horizontal
+es y estables.
+\end_layout
+
+\begin_layout Itemize
+Las escaleras de tijera deben tener dispositivos para evitar su apertura
+ incontrolada.
+\end_layout
+
+\begin_layout Itemize
+Evitar el uso de la escalera con las manos ocupadas, de lado o de espaldas.
+\end_layout
+
+\begin_layout Itemize
+Evitar los estiramientos horizontales excesivos por no mover la escalera.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Fuente de daño: Manejo de cargas.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Riesgos: Probelmas dorsolumbares.
+\end_layout
+
+\begin_layout Itemize
+Medidas preventivas asociadas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Manipular las cargas, siempre que sea posible, utilizando medios mecánicos
+ (carros, poleas...) o entre varias personas.
+\end_layout
+
+\begin_layout Itemize
+Procurar que las dimensiones de las cargas y sus agarres (ranuras, asas...)
+ permitan su manejo con facilidad.
+\end_layout
+
+\begin_layout Itemize
+Las dimensiones máximas de las cargas que se manejan habitualmente son inferiore
+s a 60 x 50 x 60 cm.
+\end_layout
+
+\begin_layout Itemize
+Obtener información sobre la forma correcta de manipular las cargas.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Estructura organizativa y organigrama
+\end_layout
+
+\begin_layout Standard
+El primer año de la empresa, en el que se tiene previsto que sea unipersonal,
+ me ocuparé de todos los ámbitos de la empresa.
+ Si la buena marcha de ésta así lo requiriese, el futuro empleado contratado
+ se encargará de la parte de producción mientras que en mi caso me ocuparé
+ del aprovisionamiento, financiación, recursos humanos, ...
+ Contaré con el asesoramiento que puedan darme tanto en la gestoría así
+ como en mi banco.
+\end_layout
+
+\begin_layout Section
+Plan de inversiones y plan de financiación.
+ Análisis de la viabilidad del proyecto.
+\end_layout
+
+\begin_layout Subsection
+Plan de inversiones
+\end_layout
+
+\begin_layout Standard
+En la empresa se montarán ordenadores por valor en piezas de 300, 400, 500,
+ 600, 700, 900 y 1100 euros; euro arriba, euro abajo.
+ Los dos modelos más caros de 900 y 1100 se montarán vía 
+\emph on
+Just in time: 
+\emph default
+En el almacén no tendré piezas en stock para montarlos debido al elevado
+ coste de estas.
+ A cambio el cliente deberá esperar un par de días más.
+\end_layout
+
+\begin_layout Itemize
+Piezas en stock para realizar 5 modelos completos = 5 * (300 + 400 + 500
+ + 600 + 700) = 12500 €
+\end_layout
+
+\begin_layout Standard
+Para cada banco de pruebas será necesario:
+\end_layout
+
+\begin_layout Itemize
+3 x Monitor = 3*135 = 405 €
+\end_layout
+
+\begin_layout Itemize
+Estantería = 54.5 €
+\end_layout
+
+\begin_layout Itemize
+3 x Ratón y teclado = 3 * 10.87 = 32.61 €
+\end_layout
+
+\begin_layout Itemize
+6 x cables de alimentación = 2.95 * 6 = 17.7 €
+\end_layout
+
+\begin_layout Itemize
+3 x cables señal de vídeo = 3 * 4.66 = 13.98 €
+\end_layout
+
+\begin_layout Itemize
+Regleta 6 conexiones = 12.28 €
+\end_layout
+
+\begin_layout Itemize
+3 x Pendrive con los medios de instalación del sistema operativo = 3 * 3.65
+ = 10.95 €
+\end_layout
+
+\begin_layout Itemize
+3 x cables de red = 3 * 2.75 = 8.25 €
+\end_layout
+
+\begin_layout Itemize
+Coste total del banco de pruebas = 555.27 €
+\end_layout
+
+\begin_layout Standard
+Está estructura es modular y a razón del volumen de ventas se podrán disponer
+ de más bancos de pruebas.
+\end_layout
+
+\begin_layout Standard
+Para cada puesto de montado es necesario:
+\end_layout
+
+\begin_layout Itemize
+Banco de pruebas = 64.99 €
+\end_layout
+
+\begin_layout Itemize
+Bridas = 11.99 €
+\end_layout
+
+\begin_layout Itemize
+Pasta térmica = 8 * 3.58 € = 10.74 €
+\end_layout
+
+\begin_layout Itemize
+Alcohol isopropílico = 6 €
+\end_layout
+
+\begin_layout Itemize
+Algodón = 1 €
+\end_layout
+
+\begin_layout Itemize
+Alicates de electricista = 11.99 €
+\end_layout
+
+\begin_layout Itemize
+Juego de destornilladores de precisión (incluye muñequera antiestática)
+ = 21.99 €
+\end_layout
+
+\begin_layout Itemize
+Coste total puesto de montado = 128.7 €
+\end_layout
+
+\begin_layout Standard
+Para cada técnico con el que cuente la empresa será necesario un puesto
+ de montado y un banco de pruebas.
+ Como al principio el único montador seré yo, los cálculos se han realizado
+ para un único empleado.
+\end_layout
+
+\begin_layout Standard
+También serán necesarias al menos 8 estanterías donde almacenar los productos
+ completos y las piezas = 8 * 109 = 872 €
+\end_layout
+
+\begin_layout Standard
+Los costes desglosados son a precio de minorista con IVA incluido, por lo
+ que son mejorables.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="16" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Plan de inversiones
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Cuantía
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Activo no corriente
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Año de inicio
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+INMOVILIDADO INTANGIBLE
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Desarrollo de una página web y su mantenimiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+INMOVILIZADO MATERIAL
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Alquiler nave
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5400
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Útiles y herramientas
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+683.97
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mobiliario y equipamiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+872
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Equipos informáticos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+600
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TOTAL INVERSIONES
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7555.97
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Activo corriente
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Año de inicio
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+EXISTENCIAS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Stock inicial
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12500
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+EFECTIVO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dinero en bancos o caja
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TOTAL INVERSIONES
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+26055.57
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Plan de inversiones
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Costes fijos y costes variables
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Costes fijos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cuantía
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Costes variables
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cuantía
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Sueldos y cuotas SSSS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+720
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Materias primas
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12500
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Precio del alquiler de la nave
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5400
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Equipos informáticos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+600
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Suministros generales (Electricidad, agua, internet)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2400
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Seguros (local)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+500
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TOTAL
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9020
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TOTAL
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12500
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Estimación de costes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+El umbral de rentabilidad
+\end_layout
+
+\begin_layout Standard
+Fijando un margen de 70 € por cada ordenador construido esto quiere decir:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+p-c_{v-unitario}=70\text{€}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Luego el umbral de rentabilidad queda fijado en 307 unidades vendidas:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+q=\frac{21520}{70}=307
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Plan de financiación
+\end_layout
+
+\begin_layout Standard
+La financiación de la empresa en el momento de su constitución va a proceder
+ de dos fuentes:
+\end_layout
+
+\begin_layout Itemize
+Capital social (fondos propios).
+\end_layout
+
+\begin_layout Itemize
+Préstamo de una Línea de Crédito ICO: 15000€ a devolver en 5 años con un
+ interés del 4.811%.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.ico.es/web/guest/ico-empresas-y-emprendedores
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.unicajabanco.es/es/empresas-y-autonomos/financiacion/a-medio-largo-pla
+zo/linea-ico-empresas-y-emprendedores
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Fuentes de financiación
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Primer año
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RECURSOS PROPIOS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Capital social
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PASIVO NO CORRIENTE
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Préstamos y créditos a largo plazo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TOTAL FINANCIACIÓN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+21000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fuentes de financiación
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Análisis de la viabilidad del proyecto
+\end_layout
+
+\begin_layout Subsubsection
+Balance de previsión
+\end_layout
+
+\begin_layout Paragraph
+Supuestos
+\end_layout
+
+\begin_layout Itemize
+Amortización del inmovilizado material: A realizar en 5 años será la suma
+ del coste de los útiles y herramientas, mobiliario y equipamiento y equipos
+ informáticos.
+\end_layout
+
+\begin_layout Itemize
+Mercaderías: Importe equivalente al stock de reserva.
+\end_layout
+
+\begin_layout Itemize
+Los clientes no contarán con posibilidad de financiación por lo que el balance
+ a final de año es de 0 €.
+ Nuestra política con proveedores será igual, pieza comprada, pieza pagada.
+\end_layout
+
+\begin_layout Paragraph
+Tabla resumen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="20" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+ACTIVO
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+PASIVO
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+a) Activo no corriente
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+a) Patrimonio neto
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+I.
+ Inmovilizado intangible
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Capital social
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Desarrollo de una página web y su mantenimiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+II.
+ Inmovilizado material
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Alquiler nave
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5400
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Útiles y herramientas
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+683.97
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mobiliario y equipamiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+872
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Equipos informáticos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+600
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Amortización del inmovilizado material
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-431
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+b) Activo corriente
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+b) Pasivo no corriente
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+I.
+ Existencias
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Deudas largo plazo
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multirow="3" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mercaderías
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12500
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rotate="90" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+c) Pasivo corriente
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+II.
+ Deudores y otras cuentas a cobrar
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Proveedores
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Clientes
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="middle" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Derechos cobro
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+III.
+ Efectivo y equivalentes
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Bancos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+41020
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+TOTAL PASIVO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+TOTAL ACTIVO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+60744.97
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+TOTAL P.
+ NETO Y PASIVO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+21000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Balance de previsión
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Cuenta de perdidas y ganancias
+\end_layout
+
+\begin_layout Paragraph
+Supuestos
+\end_layout
+
+\begin_layout Standard
+Se toma como volumen de ventas 83 ordenadores al mes, deglosados en :
+\end_layout
+
+\begin_layout Itemize
+25 modelos vendidos a 370 €
+\end_layout
+
+\begin_layout Itemize
+20 modelos vendidos a 470 €
+\end_layout
+
+\begin_layout Itemize
+15 modelos vendidos a 570 €
+\end_layout
+
+\begin_layout Itemize
+10 modelos vendidos a 670 €
+\end_layout
+
+\begin_layout Itemize
+5 modelos vendidos a 770 €
+\end_layout
+
+\begin_layout Itemize
+5 modelos vendidos a 970 €
+\end_layout
+
+\begin_layout Itemize
+3 modelos vendidos a 1170 €
+\end_layout
+
+\begin_layout Standard
+No están incluidos los gastos de envío, ya que el mismo coste que nos supone
+ enviar el ordenador se lo reflejamos al cliente en el precio de venta.
+\end_layout
+
+\begin_layout Standard
+No es una estimación muy realista, ya que hay épocas con mayor actividad
+ comercial: La vuelta a la escuela en septiembre, Navidades, Black Friday...
+ Dado que la empresa cuenta con una buena tesorería inmediata, no preocupan
+ esos altibajos.
+ Lo importante son las unidades vendidas a final de año que se estiman (de
+ forma muy alegre) en 1176 unidades.
+\end_layout
+
+\begin_layout Paragraph
+Tabla resumen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="21" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CUENTA DE PÉRDIDAS Y GANANCIAS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+EJERCICIO 1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+INGRESOS DE EXPLOTACION
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ventas
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+553320
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Aprovisionamientos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+527300
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Total ingresos de explotación
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+26020
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+GASTOS DE EXPLOTACION
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Facturas suministros
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2400
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Gastos de personal
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+720
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Alquiler local
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5400
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Amortizaciones
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+431
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Total gastos de explotación
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8951
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+BAII = ingresos de explotacion - gastos de explotación
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+17069
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+INGRESOS FINANCIEROS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Intereses
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dividendos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Descuestos sobre compras por pronto pago
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+GASTOS FINANCIEROS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Intereses
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+611.12
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+BAI = BAII + (ingresos financieros - gastos financieros)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+16457.88
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Impuestos sobre beneficios (IRPF = 24%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3949.89
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+RESULTADO DEL EJERCICIO (€)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12507.99
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Cuenta de perdidas y ganancias
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Análisis de ratios
+\end_layout
+
+\begin_layout Paragraph
+Supuestos
+\end_layout
+
+\begin_layout Standard
+El pasivo corriente se toma con valor igual a 1 para poder calcular la Tesorería
+ y la Tesorería inmediata.
+\end_layout
+
+\begin_layout Paragraph
+Tabla resumen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="9" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RATIO
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+FÓRMULA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+VALOR CALCULADO
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rentabilidad económica
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{BAII}{Activo}*100$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+27.09
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rentabilidad financiera
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{ResultadoEjercicio}{FondosPropios}*100$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+208.46
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tesorería
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{Realizado+Disponible}{PasivoCorriente}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+41020
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tesorería inmediata
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{Disponible}{PasivoCorriente}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+41020
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Garantía o solvencia a largo plazo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{Activo}{Pasivo}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.05
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Autonomía financiera
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{FondosPropios}{Pasivo}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Endeudamiento
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{Pasivo}{PatrimonioNeto}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topspace="default" bottomspace="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Calidad de la deuda
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{PasivoCorriente}{Pasivo}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.000067
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Análisis de ratios
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Plan de tesorería
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align left
+\begin_inset Graphics
+	filename ../t5_analisis_costes_plan_inversiones_financiacion/plan_empresa_u5.3/plan_tesoreria.png
+	lyxscale 55
+	scale 55
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Plan tesorería
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Forma jurídica de la idea
+\end_layout
+
+\begin_layout Subsection
+Definición de la forma jurídica
+\end_layout
+
+\begin_layout Subsubsection
+Denominación
+\end_layout
+
+\begin_layout Standard
+Emprendedor de Responsabilidad Limitada.
+\end_layout
+
+\begin_layout Subsubsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+Persona física que, con limitación de responsabilidad bajo determinadas
+ condiciones, realiza de forma habitual, personal, directa, por cuenta propia
+ y fuera del ámbito de dirección y organización de otra persona, una actividad
+ económica o profesional a título lucrativo, con o sin trabajadores por
+ cuenta ajena a su cargo.
+\end_layout
+
+\begin_layout Subsubsection
+Características
+\end_layout
+
+\begin_layout Itemize
+El emprendedor responde personalmente de todas las obligaciones que contraiga
+ la empresa, excluyéndose de las mismas la vivienda habitual (exceptuando
+ las deudas de derecho público).
+\end_layout
+
+\begin_layout Itemize
+Control total de la empresa por parte del propietario, que dirige su gestión.
+\end_layout
+
+\begin_layout Itemize
+La personalidad jurídica de la empresa es la misma que la de su titular
+ (empresario).
+\end_layout
+
+\begin_layout Itemize
+La aportación de capital a la empresa, tanto en su calidad como en su cantidad,
+ no tiene más límite que la voluntad del empresario.
+\end_layout
+
+\begin_layout Itemize
+El emprendedor inscrito deberá hacer constar en toda su documentación, con
+ expresión de los datos registrales, su condición de «Emprendedor de Responsabil
+idad Limitada» o mediante la adición a su nombre, apellidos y datos de identific
+ación fiscal de las siglas «ERL».
+\end_layout
+
+\begin_layout Paragraph
+Ventajas
+\end_layout
+
+\begin_layout Itemize
+El emprendedor podrá limitar su responsabilidad por las deudas derivadas
+ del ejercicio de dicha actividad empresarial o profesional.
+\end_layout
+
+\begin_layout Itemize
+Es una forma empresarial idónea para el funcionamiento de empresas de muy
+ reducido tamaño.
+\end_layout
+
+\begin_layout Itemize
+No hay que realizar ningún trámite de adquisición de la personalidad jurídica,
+ pero sí es necesario inscribir en el Registro Mercantil y en el Registro
+ de la Propiedad la condición de Empresario de Responsabilidad Limitada
+ indicando los datos de la vivienda habitual que quedará excluida de la
+ responsabilidad de la empresa.
+\end_layout
+
+\begin_layout Itemize
+Puede resultar más económica, dado que no se crea persona jurídica distinta
+ del propio empresario.
+\end_layout
+
+\begin_layout Paragraph
+Inconvenientes
+\end_layout
+
+\begin_layout Itemize
+Es necesaria la inscripción en el Registro Mercantil.
+\end_layout
+
+\begin_layout Itemize
+El empresario responde con su patrimonio personal de las deudas generadas
+ en su actividad, excepto su vivienda habitual bajo determinadas condiciones.
+\end_layout
+
+\begin_layout Itemize
+Si el empresario o empresaria están casados puede dar lugar a que sus actividade
+s alcancen al otro cónyuge, según la clase de bienes: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Los bienes propios de los cónyuges empresarios quedan obligados a los resultados
+ de la actividad empresarial.
+\end_layout
+
+\begin_layout Itemize
+Los bienes gananciales pueden quedar obligados por consentimiento expreso
+ o por presencia y consentimiento.
+\end_layout
+
+\begin_layout Itemize
+Los bienes privativos del cónyuge del empresario pueden quedar obligados
+ por consentimiento expreso en escritura pública.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tributa por tipos más elevados cuanto mayor es su volumen de renta.
+\end_layout
+
+\begin_layout Itemize
+Obligación de elaborar y depositar anualmente en el Registro Mercantil las
+ cuentas anuales de la actividad.
+\end_layout
+
+\begin_layout Subsubsection
+Responsabilidad
+\end_layout
+
+\begin_layout Standard
+El empresario responde con su patrimonio personal de las deudas generadas
+ en su actividad.
+ Queda exceptuada su vivienda habitual siempre que se cumplan las siguientes
+ condiciones:
+\end_layout
+
+\begin_layout Itemize
+El valor de la vivienda no puede superar los 300.000 €.
+ Esta valoración se realiza conforme a la base imponible del Impuesto sobre
+ Transmisiones Patrimoniales y Actos Jurídicos Documentados en el momento
+ de la inscripción en el Registro Mercantil.
+\end_layout
+
+\begin_layout Itemize
+En el caso de viviendas situadas en población de más de 1.000.000 de habitantes
+ se aplicará un coeficiente del 1,5 al valor del párrafo anterior.
+\end_layout
+
+\begin_layout Itemize
+En la inscripción del Registro Mercantil correspondiente a su domicilio
+ se indicará el bien inmueble, propio o común, que se pretende no quede
+ obligado por las resultas del giro empresarial o profesional.
+\end_layout
+
+\begin_layout Itemize
+No podrá beneficiarse de la limitación de responsabilidad el deudor que
+ hubiera actuado con fraude o negligencia grave en el cumplimiento de sus
+ obligaciones con terceros, siempre que así conste por sentencia firme o
+ en concurso declarado culpable.
+\end_layout
+
+\begin_layout Itemize
+Salvo que los acreedores presten su consentimiento expresamente, subsistirá
+ la responsabilidad universal del deudor por las deudas contraídas con anteriori
+dad a su inscripción en el Registro Mercantil como emprendedor individual
+ de responsabilidad limitada.
+\end_layout
+
+\begin_layout Standard
+Transcurridos siete meses desde el cierre del ejercicio social sin que se
+ hayan depositado las cuentas anuales en el Registro Mercantil, el emprendedor
+ perderá el beneficio de la limitación de responsabilidad en relación con
+ las deudas contraídas con posterioridad al fin de ese plazo.
+ Recuperará el beneficio en el momento de la presentación.
+\end_layout
+
+\begin_layout Standard
+Si el empresario/a está casado puede dar lugar a que la responsabilidad
+ derivada de sus actividades alcance a su cónyuge.
+ Por ello hay que tener en cuenta el régimen económico que rige el matrimonio
+ y la naturaleza de los bienes en cuestión.
+\end_layout
+
+\begin_layout Standard
+En este sentido, conviene aclarar lo siguiente:
+\end_layout
+
+\begin_layout Itemize
+Los bienes privativos del empresario quedan obligados a los resultados de
+ la actividad empresarial.
+ 
+\end_layout
+
+\begin_layout Itemize
+Los bienes destinados al ejercicio de la actividad y los adquiridos como
+ consecuencia de dicho ejercicio, responden en todo caso del resultado de
+ la actividad empresarial.
+ 
+\end_layout
+
+\begin_layout Itemize
+En el régimen de bienes gananciales, cuando se trata de bienes comunes del
+ matrimonio, para que éstos queden obligados será necesario el consentimiento
+ de ambos cónyuges.
+ El consentimiento se presume cuando se ejerce la actividad empresarial
+ con conocimiento y sin oposición expresa del cónyuge y también cuando al
+ contraer matrimonio uno de los cónyuges ejerciese la actividad y continuase
+ con ella sin oposición del otro.
+ 
+\end_layout
+
+\begin_layout Itemize
+Los bienes privativos del cónyuge del empresario no quedan afectos al ejercicio
+ de la actividad empresarial, salvo que exista un consentimiento expreso
+ de dicho cónyuge.
+ 
+\end_layout
+
+\begin_layout Itemize
+En todo caso, el cónyuge puede revocar libremente el consentimiento tanto
+ expreso como presunto.
+\end_layout
+
+\begin_layout Itemize
+El empresario individual no está obligado a inscribirse en el Registro Mercantil
+, aunque puede ser conveniente inscribirse entre otras razones para registrar
+ los datos relativos al cónyuge, el régimen económico del matrimonio, las
+ capitulaciones, así como el consentimiento, la revocación u oposición del
+ cónyuge a la afección a la actividad empresarial de los bienes comunes
+ o los privativos.
+\end_layout
+
+\begin_layout Subsubsection
+Fiscalidad
+\end_layout
+
+\begin_layout Standard
+Impuesto sobre la renta de las personas físicas (IRPF): rendimiento por
+ actividades económicas.
+\end_layout
+
+\begin_layout Subsubsection
+Normativa
+\end_layout
+
+\begin_layout Itemize
+El Código de Comercio en materia mercantil y el Código Civil en materia
+ de derechos y obligaciones.
+\end_layout
+
+\begin_layout Itemize
+Ley 20/2007 del estatuto del trabajo autónomo.
+\end_layout
+
+\begin_layout Itemize
+Ley 6/2017 de Reformas Urgentes del Trabajo Autónomo.
+\end_layout
+
+\begin_layout Itemize
+Real Decreto 197/2009, por el que se desarrolla el Estatuto del Trabajo
+ Autónomo en materia de contrato del trabajador autónomo económicamente
+ dependiente y su registro y se crea el Registro Estatal de asociaciones
+ profesionales de trabajadores autónomos.
+\end_layout
+
+\begin_layout Itemize
+Ley 14/2013 de apoyo a los emprendedores y su internacionalización.
+\end_layout
+
+\begin_layout Itemize
+Ley 31/2015 por la que se modifica y actualiza la normativa en materia de
+ autoempleo y se adoptan medidas de fomento y promoción del trabajo autónomo
+ y de la Economía Social.
+\end_layout
+
+\begin_layout Subsubsection
+Número de socios
+\end_layout
+
+\begin_layout Standard
+Un socio.
+\end_layout
+
+\begin_layout Subsubsection
+Capital
+\end_layout
+
+\begin_layout Standard
+No se requiere un capital social mínimo.
+\end_layout
+
+\begin_layout Section
+Trámites de constitución
+\end_layout
+
+\begin_layout Subsection
+Acta notarial
+\end_layout
+
+\begin_layout Subsubsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+El objeto del acta notarial son los hechos, a diferencia de otros documentos
+ notariales, como las escrituras públicas y las pólizas, en las que se recogen
+ contratos.
+ Las actas notariales tienen como contenido la constatación de hechos o
+ la percepción que de los mismos tenga el notario, siempre que por su índole
+ no puedan calificarse de actos y contratos.
+\end_layout
+
+\begin_layout Standard
+Es el título necesario para poder inmatricular en el Registro Mercantil
+ Provincial a los Emprendedores de Responsabilidad Limitada.
+\end_layout
+
+\begin_layout Standard
+El acta recogerá los datos de la vivienda habitual que no estará sujeta
+ a la responsabilidad por las deudas del ejercicio de su actividad.
+\end_layout
+
+\begin_layout Subsubsection
+Documentación
+\end_layout
+
+\begin_layout Itemize
+Alta en el Censo de Empresarios y Profesionales.
+\end_layout
+
+\begin_layout Itemize
+Escritura de propiedad de la vivienda habitual.
+\end_layout
+
+\begin_layout Itemize
+Valoración de la vivienda realizada por la Consejería de Hacienda de la
+ CCAA donde se ubique el inmueble (necesarios para el cálculo del Impuesto
+ de Transmisiones Patrimoniales y Actos Jurídicos Documentados).
+\end_layout
+
+\begin_layout Subsection
+Liquidación del ITP y actos jurídicos documentados
+\end_layout
+
+\begin_layout Subsubsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+El impuesto recae sobre el adquiriente del bien o derecho y en su defecto,
+ las personas que insten o soliciten los documentos notariales, o aquellos
+ en cuyo interés se expidan.
+\end_layout
+
+\begin_layout Standard
+El tributo se satisfará mediante cuotas variables o fijas, atendiendo a
+ que el documento que se formalice, otorgue o expida, tenga o no por objeto
+ cantidad o cosa evaluable en algún momento de su vigencia.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Plazo
+\end_layout
+
+\begin_layout Standard
+El plazo para la liquidación es de 30 días hábiles a partir del otorgamiento
+ del documento notarial (escritura pública u acta notarial).
+\end_layout
+
+\begin_layout Subsubsection
+Organismo
+\end_layout
+
+\begin_layout Standard
+Consejería de Hacienda de Andalucía.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Documentación
+\end_layout
+
+\begin_layout Standard
+Formularios:
+\end_layout
+
+\begin_layout Itemize
+Liquidación del Impuesto sobre Transmisiones Patrimoniales: Modelo 600 (actualme
+nte este impuesto no se aplica en la constitución de ningún tipo de empresa).
+\end_layout
+
+\begin_layout Itemize
+Liquidación del Impuesto sobre Actos Jurídicos Documentados: Como norma
+ general se utilizará el modelo 601, sin embargo, las CCAA podrán exigir
+ el uso de sus propios modelos.
+ 
+\end_layout
+
+\begin_layout Standard
+Documentación a aportar:
+\end_layout
+
+\begin_layout Itemize
+Primera copia y copia simple del documento notarial o, en su caso, original
+ y fotocopia del documento judicial, administrativo o privado que contenga
+ el hecho imponible sujeto a este impuesto.
+\end_layout
+
+\begin_layout Itemize
+Sociedades: DNI o NIE del representante legal de la empresa y NIF de la
+ sociedad.
+ 
+\end_layout
+
+\begin_layout Itemize
+Comunidad de Bienes o Sociedad Civil: DNI o NIE de cada uno de los socios
+ o comuneros.
+\end_layout
+
+\begin_layout Itemize
+Emprendedor de Responsabilidad Limitada: DNI o NIE.
+\end_layout
+
+\begin_layout Subsection
+Inscripción de la empresa en el Registro
+\end_layout
+
+\begin_layout Subsubsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+Trámite necesario para que la vivienda habitual del emprendedor quede exenta
+ de responsabilidad.
+ Se indicará el bien inmueble, propio o común que quedará exento.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Organismo
+\end_layout
+
+\begin_layout Standard
+Registro Mercantil de Granada.
+\end_layout
+
+\begin_layout Subsubsection
+Documentación
+\end_layout
+
+\begin_layout Standard
+La inscripción en el Registro Mercantil se practicará en virtud de documento
+ público.
+ En el caso del Emprendedor de Responsabilidad Limitada:
+\end_layout
+
+\begin_layout Itemize
+Documentación notarial o la instancia suscrita con la firma electrónica
+ reconocida del empresario y remitida telemáticamente al Registro.
+ 
+\end_layout
+
+\begin_layout Itemize
+Alta en el Censo de Empresarios y Profesionales.
+ 
+\end_layout
+
+\begin_layout Itemize
+DNI o NIE.
+ 
+\end_layout
+
+\begin_layout Itemize
+Liquidación del Impuesto de Transmisiones Patrimoniales (Impreso Modelo
+ 601, como norma general.
+ Las CC.AA.
+ podrán exigir el uso de sus propios modelos).
+ 
+\end_layout
+
+\begin_layout Section
+Puesta en marcha
+\end_layout
+
+\begin_layout Standard
+Se indica el trámite a realizar y la página web en la que, certificado electróni
+co mediante, se puede llevar a cabo en caso de que fuera necesario.
+\end_layout
+
+\begin_layout Subsection
+Trámites generales
+\end_layout
+
+\begin_layout Itemize
+Autoridades de certificación: Obtención de un certificado electrónico.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.sede.fnmt.gob.es/preguntas-frecuentes/certificado-de-persona-fisica
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Agencia Tributaria (AEAT): Alta en el Censo de empresarios, profesionales
+ y retenedores.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G322.shtml
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Alta en el régimen especial de
+ trabajadores autónomos (RETA).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.seg-social.gob.es/wps/portal/sede/sede/EmpresasyProfesionales/afiliaci
+on%20e%20inscripcion/03afiliacion%20e%20inscripcion/?changeLanguage=es
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Registro Mercantil Provincial: Legalización del Libro Diario y del Libro
+ de Inventarios y Cuentas Anuales.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.registradores.org/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Trámites según la actividad
+\end_layout
+
+\begin_layout Itemize
+Ayuntamientos: Licencia de actividad.
+\end_layout
+
+\begin_layout Itemize
+Otros organismos oficiales y/o registros: Inscripción en otros organismos
+ oficiales y/o registros.
+\end_layout
+
+\begin_layout Subsection
+Trámites en caso de contratar trabajadores
+\end_layout
+
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Inscripción de la empresa.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.seg-social.gob.es/wps/portal/sede/sede/EmpresasyProfesionales/afiliaci
+on%20e%20inscripcion/03afiliacion%20e%20inscripcion/?changeLanguage=es
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Afiliación de trabajadores (en
+ el supuesto de que no estén afiliados).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.seg-social.gob.es/wps/portal/sede/sede/EmpresasyProfesionales/afiliaci
+on%20e%20inscripcion/03afiliacion%20e%20inscripcion/?changeLanguage=es
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Alta de los trabajadores en el
+ Régimen de la Seguridad Social.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/5300
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Servicio Público de Empleo Estatal: Alta de los contratos de trabajo.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacio
+n.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Consejería de Trabajo de la CCAA: Comunicación de apertura del centro de
+ trabajo.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.juntadeandalucia.es/servicios/procedimientos/detalle/6514.html#toc-c-mo
+-realizar-el-tr-mite
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Inspección Provincial de Trabajo: Obtención del calendario laboral.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.seg-social.es/wps/portal/wss/internet/CalendarioLaboral/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Trámites complementarios
+\end_layout
+
+\begin_layout Itemize
+Oficina Española de Patentes y Marcas: Registro de signos distintivos.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.oepm.gob.es/eSede/es/index.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Conclusiones y evaluación del proyecto
+\end_layout
+
+\begin_layout Standard
+Visto el proyecto en su conjunto, se pueden dislumbrar carencias diversas:
+\end_layout
+
+\begin_layout Itemize
+Viabilidad del proyecto: Teniendo en cuenta los salarios a los que puedo
+ acceder como programador o incluso como técnico de sistemas microinformáticos
+ (que sería el ámbito de aplicación del siguiente proyecto) creo que no
+ está justificado lanzarse a la aventura.
+ Según la cuenta de pérdidas y ganancias, el resultado es de un beneficio
+ de unos 12000€, que vienen a ser 1000€ al mes.
+ Y para llegar a ello es necesario realizar ventas por valor de 553320€.
+ Dada la competencia que hay en el mercado, veo bien difícil llegar a esas
+ cifras con el margen de 70€ por unidad vendida y el número de unidades
+ fijado.
+ Tampoco podemos elevar el margen, el enlace siguiente redirige a una empresa
+ que, previo escandallo del coste de los componentes en su misma página
+ web, el margen con el que trabaja de 24€ por unidad vendida y yo, como
+ autónomo no puedo competir con eso.
+ Tendría que contratar a varios técnicos que estuvieran montando ordenadores
+ 
+\begin_inset Quotes eld
+\end_inset
+
+a piñon
+\begin_inset Quotes erd
+\end_inset
+
+ y rezar todas las oraciones habidas y por haber para poder vender todas
+ las unidades producidas y no entrar en pérdidas.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.europeanpc.es/catalogo/bundles
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alternativas a este desastre económico están:
+\end_layout
+
+\begin_layout Itemize
+Vender un mayor catálogo de productos, partiendo de la misma filosofía de
+ elección por el usuario y categorización por uso.
+ Todo esto vía 
+\emph on
+dropshipping 
+\emph default
+tal y como expliqué en el plan de márketing
+\emph on
+.
+ 
+\emph default
+En este caso el ensamblado y venta de ordenadores de sobremesa pasaría a
+ un segundo plano y podríamos ofrecerlos a un precio menor ya que los ingresos
+ procederían de distintas fuentes.
+\end_layout
+
+\begin_layout Itemize
+Reducir costes.
+ Una primera propuesta de reducción de costes sería la búsqueda de un local
+ con un alquiler más reducido y de menores dimensiones, ya que es un coste
+ importante.
+\end_layout
+
+\begin_layout Itemize
+Construir todos los equipos a demanda y no contar con stock en almacén:
+ Los plazos de entrega de los productos aumentarían (cosa mala, dadas las
+ prisas que se gastan en la actualidad) pero a cambio podría contar con
+ un local muy pequeño, donde solo contaría con los puestos de montado y
+ un pequeño espacio donde guardar el material necesario durante la jornada
+ de trabajo y los equipos ensamblados durante el día.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Impuestos: Esta no sería una carencia en sí del proyecto sino del entorno
+ en el que se desarrolla.
+ Que con un beneficio del 16000€ un 30% vaya a parar a las arcas del Estado
+ es cuanto menos abusivo, sin contar la cuota de autómos, que el primer
+ año es de 60€ mensuales (cuota aceptable dicho sea de paso) para que en
+ los siguientes sea de 294 € mensuales (y subiendo), con unas prestaciones
+ por parte de la Seguridad Social escasas y una jubilación irrisoria.
+ Además de la persecución casi policial realizada por Hacienda, donde el
+ contribuyente es culpable mientras no se demuestre lo contrario.
+ En resumen, la fiscalidad no favorece que los ciudadanos emprendan.
+\end_layout
+
+\begin_layout Itemize
+Riesgo: El riesgo es cuantificable en base a diversos factores pero también
+ cuenta con un componente psicológico.
+ Siento que es bastante arriesgado abandonar un puesto como asalariado con
+ un horario de 8 horas al día de lunes a viernes para convertirse en autónomo
+ (autónomo se es las 24h), renunciar a la posibilidad de una futura concialiació
+n familiar y la realización de otro tipo de proyectos, además de invertir
+ 6000€ de mi bolsillo y pedir un préstamo de 15000€ para que, en el mejor
+ de los casos, llegar a mileurista siendo empresa unipersonal.
+ Puestos a perder poder adquisitivo veo preferible opositar a Tecnico Auxiliar
+ de Informática del Estado y mudarme casi con toda seguridad a Madrid, (Grupo
+ C, ya que Grupo B que es el de Técnicos Superiores no se convocan plazas)
+ con un sueldo base que parte de 19100€ brutos al año mejorable subiendo
+ niveles en la escala de funcionarios y con complementos varios que es un
+ puesto de trabajo hasta la jubilación o la quiebra del Estado (probablemente
+ dada mi edad lo segundo llegue antes).
+\end_layout
+
+\begin_layout Standard
+También presenta ciertas fortalezas:
+\end_layout
+
+\begin_layout Itemize
+Flexibilidad: El proyecto es escalable en cuanto al nivel de implicación
+ que se quiera tener.
+ Por ejemplo, si la legislación acompañara y los tramos de las cuotas del
+ IRPF fueran más progresivos y existiera una especie de cuota de autónomo
+ a 
+\begin_inset Quotes eld
+\end_inset
+
+tiempo parcial
+\begin_inset Quotes erd
+\end_inset
+
+ o una mínima más reducida, sería un proyecto viable a realizar a tiempo
+ parcial compatibilizando con un trabajo por cuenta ajena siempre y cuando
+ se cuente con un pequeño local / habitación donde poder montar un pequeño
+ taller de montaje de manera que la partida de coste del alquiler sea igual
+ a cero.
+ Así como también montarlo a lo grande y alquilar un local de buenas proporcione
+s, contratar a personal, grandes compras de material ...
+\end_layout
+
+\begin_layout Itemize
+Rentabilidad: Entre el enfoque de muy pequeña empresa hasta el de una mayor,
+ para el desarrollo de este plan de empresa he optado por un enfoque más
+ intemedio, con la balanza inclinada hacia la pequeña.
+ Según el análisis económico-financiero realizado en el punto 8, la empresa
+ es rentable y esto es indiscutible independientemente del riesgo percibido
+ por mi parte.
+ Otra cuestión es si los números estimados son realistas o no.
+\end_layout
+
+\begin_layout Standard
+En resumen, realizado un somero análisis del proyecto y dadas mis circunstancias
+ actuales (al comienzo de mi vida laboral) pesan más las carencias que las
+ fortalezas y no emprendería esta empresa (ahora o en un futuro próximo).
+\end_layout
+
+\end_body
+\end_document

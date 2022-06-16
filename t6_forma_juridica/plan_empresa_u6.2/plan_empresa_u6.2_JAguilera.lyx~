@@ -1,0 +1,559 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Unidad 6.2: Trámites de constitución y puesta en marcha
+\end_layout
+
+\begin_layout Author
+Javier Aguilera Aguilera 2º CFGS DAW
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.ipyme.org/es-ES/DecisionEmprender/FormasJuridicas/Paginas/FormasJuridic
+as.aspx
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Trámites de constitución
+\end_layout
+
+\begin_layout Section
+Acta notarial
+\end_layout
+
+\begin_layout Subsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+El objeto del acta notarial son los hechos, a diferencia de otros documentos
+ notariales, como las escrituras públicas y las pólizas, en las que se recogen
+ contratos.
+ Las actas notariales tienen como contenido la constatación de hechos o
+ la percepción que de los mismos tenga el notario, siempre que por su índole
+ no puedan calificarse de actos y contratos.
+\end_layout
+
+\begin_layout Standard
+Es el título necesario para poder inmatricular en el Registro Mercantil
+ Provincial a los Emprendedores de Responsabilidad Limitada.
+\end_layout
+
+\begin_layout Standard
+El acta recogerá los datos de la vivienda habitual que no estará sujeta
+ a la responsabilidad por las deudas del ejercicio de su actividad.
+\end_layout
+
+\begin_layout Subsection
+Documentación
+\end_layout
+
+\begin_layout Itemize
+Alta en el Censo de Empresarios y Profesionales.
+\end_layout
+
+\begin_layout Itemize
+Escritura de propiedad de la vivienda habitual.
+\end_layout
+
+\begin_layout Itemize
+Valoración de la vivienda realizada por la Consejería de Hacienda de la
+ CCAA donde se ubique el inmueble (necesarios para el cálculo del Impuesto
+ de Transmisiones Patrimoniales y Actos Jurídicos Documentados).
+\end_layout
+
+\begin_layout Section
+Liquidación del ITP y actos jurídicos documentados
+\end_layout
+
+\begin_layout Subsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+El impuesto recae sobre el adquiriente del bien o derecho y en su defecto,
+ las personas que insten o soliciten los documentos notariales, o aquellos
+ en cuyo interés se expidan.
+\end_layout
+
+\begin_layout Standard
+El tributo se satisfará mediante cuotas variables o fijas, atendiendo a
+ que el documento que se formalice, otorgue o expida, tenga o no por objeto
+ cantidad o cosa evaluable en algún momento de su vigencia.
+ 
+\end_layout
+
+\begin_layout Subsection
+Plazo
+\end_layout
+
+\begin_layout Standard
+El plazo para la liquidación es de 30 días hábiles a partir del otorgamiento
+ del documento notarial (escritura pública u acta notarial).
+\end_layout
+
+\begin_layout Subsection
+Organismo
+\end_layout
+
+\begin_layout Standard
+Consejería de Hacienda de Andalucía.
+ 
+\end_layout
+
+\begin_layout Subsection
+Documentación
+\end_layout
+
+\begin_layout Standard
+Formularios:
+\end_layout
+
+\begin_layout Itemize
+Liquidación del Impuesto sobre Transmisiones Patrimoniales: Modelo 600 (actualme
+nte este impuesto no se aplica en la constitución de ningún tipo de empresa).
+\end_layout
+
+\begin_layout Itemize
+Liquidación del Impuesto sobre Actos Jurídicos Documentados: Como norma
+ general se utilizará el modelo 601, sin embargo, las CCAA podrán exigir
+ el uso de sus propios modelos.
+ 
+\end_layout
+
+\begin_layout Standard
+Documentación a aportar:
+\end_layout
+
+\begin_layout Itemize
+Primera copia y copia simple del documento notarial o, en su caso, original
+ y fotocopia del documento judicial, administrativo o privado que contenga
+ el hecho imponible sujeto a este impuesto.
+\end_layout
+
+\begin_layout Itemize
+Sociedades: DNI o NIE del representante legal de la empresa y NIF de la
+ sociedad.
+ 
+\end_layout
+
+\begin_layout Itemize
+Comunidad de Bienes o Sociedad Civil: DNI o NIE de cada uno de los socios
+ o comuneros.
+\end_layout
+
+\begin_layout Itemize
+Emprendedor de Responsabilidad Limitada: DNI o NIE.
+\end_layout
+
+\begin_layout Section
+Inscripción de la empresa en el Registro
+\end_layout
+
+\begin_layout Subsection
+Descripción
+\end_layout
+
+\begin_layout Standard
+Trámite necesario para que la vivienda habitual del emprendedor quede exenta
+ de responsabilidad.
+ Se indicará el bien inmueble, propio o común que quedará exento.
+ 
+\end_layout
+
+\begin_layout Subsection
+Organismo
+\end_layout
+
+\begin_layout Standard
+Registro Mercantil de Granada.
+\end_layout
+
+\begin_layout Subsection
+Documentación
+\end_layout
+
+\begin_layout Standard
+La inscripción en el Registro Mercantil se practicará en virtud de documento
+ público.
+ En el caso del Emprendedor de Responsabilidad Limitada:
+\end_layout
+
+\begin_layout Itemize
+Documentación notarial o la instancia suscrita con la firma electrónica
+ reconocida del empresario y remitida telemáticamente al Registro.
+ 
+\end_layout
+
+\begin_layout Itemize
+Alta en el Censo de Empresarios y Profesionales.
+ 
+\end_layout
+
+\begin_layout Itemize
+DNI o NIE.
+ 
+\end_layout
+
+\begin_layout Itemize
+Liquidación del Impuesto de Transmisiones Patrimoniales (Impreso Modelo
+ 601, como norma general.
+ Las CC.AA.
+ podrán exigir el uso de sus propios modelos).
+ 
+\end_layout
+
+\begin_layout Part
+Puesta en marcha
+\end_layout
+
+\begin_layout Standard
+Se indica el trámite a realizar y la página web en la que, certificado electróni
+co mediante, se puede llevar a cabo en caso de que fuera necesario.
+\end_layout
+
+\begin_layout Section
+Trámites generales
+\end_layout
+
+\begin_layout Itemize
+Autoridades de certificación: Obtención de un certificado electrónico.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.sede.fnmt.gob.es/preguntas-frecuentes/certificado-de-persona-fisica
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Agencia Tributaria (AEAT): Alta en el Censo de empresarios, profesionales
+ y retenedores.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G322.shtml
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Alta en el régimen especial de
+ trabajadores autónomos (RETA).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.seg-social.gob.es/wps/portal/sede/sede/EmpresasyProfesionales/afiliaci
+on%20e%20inscripcion/03afiliacion%20e%20inscripcion/?changeLanguage=es
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Registro Mercantil Provincial: Legalización del Libro Diario y del Libro
+ de Inventarios y Cuentas Anuales.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.registradores.org/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Trámites según la actividad
+\end_layout
+
+\begin_layout Itemize
+Ayuntamientos: Licencia de actividad.
+\end_layout
+
+\begin_layout Itemize
+Otros organismos oficiales y/o registros: Inscripción en otros organismos
+ oficiales y/o registros.
+\end_layout
+
+\begin_layout Section
+Trámites en caso de contratar trabajadores
+\end_layout
+
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Inscripción de la empresa.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.seg-social.gob.es/wps/portal/sede/sede/EmpresasyProfesionales/afiliaci
+on%20e%20inscripcion/03afiliacion%20e%20inscripcion/?changeLanguage=es
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Afiliación de trabajadores (en
+ el supuesto de que no estén afiliados).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://sede.seg-social.gob.es/wps/portal/sede/sede/EmpresasyProfesionales/afiliaci
+on%20e%20inscripcion/03afiliacion%20e%20inscripcion/?changeLanguage=es
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tesorería General de la Seguridad Social: Alta de los trabajadores en el
+ Régimen de la Seguridad Social.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/5300
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Servicio Público de Empleo Estatal: Alta de los contratos de trabajo.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacio
+n.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Consejería de Trabajo de la CCAA: Comunicación de apertura del centro de
+ trabajo.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.juntadeandalucia.es/servicios/procedimientos/detalle/6514.html#toc-c-mo
+-realizar-el-tr-mite
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Inspección Provincial de Trabajo: Obtención del calendario laboral.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.seg-social.es/wps/portal/wss/internet/CalendarioLaboral/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Trámites complementarios
+\end_layout
+
+\begin_layout Itemize
+Oficina Española de Patentes y Marcas: Registro de signos distintivos.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://sede.oepm.gob.es/eSede/es/index.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
